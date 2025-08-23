@@ -14,7 +14,10 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 - To add the repo, clone it to your desired directory
 	- If you don't know what that means, follow:
 		[this](https://github.com/Eric-Ward475/Class-Notes/blob/main/gen.%20info/cloning%20the%20repo.md)
-
+	- (obsidian link: [[cloning the repo]])
+- Open the folder as a vault in Obsidian
+	- Click 'Open folder as vault' and select either the cloned repo's folder or where you extracted the .zip
+- Done!
 
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
@@ -23,4 +26,3 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 ### Change log
 8/22/25 - Created README.md, and updated some existing files
 8/23/25 - Fixed some annoying grammar and spelling in some files
-
