@@ -13,7 +13,7 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 - To install Obsidian, go to https://obsidian.md/download and follow their download instructions
 - To add the repo, clone it to your desired directory
 	- If you don't know what that means, follow:
-		[this](/gen.%20Info/cloning%20the%20repo/)
+		[this](/gen.%20Info/cloning%20the%20repo.md/)
 
 
 ### Road-map
