@@ -57,12 +57,12 @@
 - A son of Cronus and Rhea
 - Brother of Zeus and Hades
 - Had many lovers, but is married to the Nereid Amphirite
-- His symblos were the trident, horse, bull and dolphin
+- His symbols were the trident, horse, bull and dolphin
 **Demeter**
-- Goddess of harvest, fertility, faming/agriculture, nature and the seasons
+- Goddess of harvest, fertility, farming/agriculture, nature and the seasons
 - A daughter of Cronus and Rhea
 - One of Zeus and Poseidon's lovers
-- Mother of Persophone, Despoine and Arion
+- Mother of Persephone, Despoine and Arion
 **Apollo**
 - God of Sun, light, prophecy, philosophy, archery, truth, inspiration, poetry, music, arts, manly beauty, medicine, healing and plague
 - A lie never fell from his lips
@@ -80,7 +80,7 @@
 - All other gods despised him, except for Aphrodite
 - The boar, serpent, dog, vulture, spear and shield were his symbols
 **Athena**
-- Goddess of wisdon, handicraft and warfare
+- Goddess of wisdom, handicraft and warfare
 - The daughter of Zeus alone (rose from his head fully grown and in full battle armor)
 - Zeus' favorite child
 - Symbols were the owl and olive tree
@@ -89,7 +89,7 @@
 - Master blacksmith
 - Armorer/craftsman of the gods
 - The son of Hera, either by Zeus or through Asexual reproduction (revenge for Zeus being with other women)
-- Symbols include fire, anvil, axe, donkey, hammer, tongs and quail
+- Symbols include fire, anvil, ax, donkey, hammer, tongs and quail
 **Aphrodite**
 - Goddess of love, pleasure, passion, procreation, fertility, beauty and desire
 - The daughter of Zeus and the Oceanid (or Titaness) Dione, or possibly born from the sea foam after Uranus' blood dripped into the sea after being castrated by Cronus, who then threw his fathers genitals into the sea (freaky ahh greeks)
@@ -105,4 +105,4 @@
 **Hestia**
 - Goddess of the hearth, fire and of the right ordering of domesticity and the family
 - Sister to Zeus, Poseidon, Hades, Demeter and Hera
-- First child of Chronus and Rhea
+- First child of Cronus and Rhea
