@@ -1,25 +1,31 @@
+## Index
+[[#The Gods & Titans]]
+	[[#Titans]]
+	[[#The 12 Olympians]]
+	[[#The Golden Peace]]
+	[[#The Olympians (In depth)]]	
 ## The Gods & Titans
 #### Titans
 - The Titans were also called Elder Gods
 - Titans were very large and powerful
 - There were many of them, but only a few are important
-- The most important was Chronus, also called Saturn in Latin.
-- He ruled over the other Titans in an era, known as the Golden age. It was a period of time of perfect peace and prosperity. He was later overthrown by Zeus, ending the Golder age.
+- The most important was Cronus, also called Saturn in Latin.
+- He ruled over the other Titans in an era, known as the Golden age. It was a period of time of perfect peace and prosperity. He was later overthrown by Zeus, ending the Golden age.
 **Other Titans:**
-- Ocean: Titan of the ocian/river said to encircle the Earth
+- Ocean: Titan of the ocean/river said to encircle the Earth
 - Tethys: Ocean's wife
 - Hyperion: Father of the sun and moon
 - Themis: Titan of Justice
 - Atlas: Bore the world on his shoulders
-- Prometheus: The savior of manking
+- Prometheus: The savior of man kind
 #### The 12 Olympians
 - The Olympians succeeded the Titans
 - Zeus (or Jupiter) was the most significant of all gods. He was greater than all others combined
-- No divinities were greater than Zeus, except the Priordial Gods, or the elemental forces of the universe, such as Gaia (Earth) and Nyx (Night). The Fates, as in the Goddesses were also considered greater than Zeus. They control the course of human life and there were 3 of them.
+- No divinities were greater than Zeus, except the Primordial Gods, or the elemental forces of the universe, such as Gaia (Earth) and Nyx (Night). The Fates, as in the Goddesses were also considered greater than Zeus. They control the course of human life and there were 3 of them.
 - The 3 main brothers were Zeus, Poseidon and Hades
 - Zeus took the Sky and the Heavens, Poseidon the Sea and Hades the dead, underworld and all Earthly Riches
 	- Zeus 
-- The rest of the olympians were:
+- The rest of the Olympians were:
 	- Hera (Juno)
 	- Demeter (Ceres)
 	- Apollo (Apollo)
@@ -30,15 +36,15 @@
 	- Hestia (Vesta), or Dionysus (Liber), depending on the story
 ![[Pasted image 20250821192416.png]]
 - Poseidon created the first horse for man
-- After the coming of Zeus, Titans other than chronus were not banished from Olympus, but held much lower power and prestige than before
+- After the coming of Zeus, Titans other than Cronus were not banished from Olympus, but held much lower power and prestige than before
 #### The Golden Peace
-- The Golden Peace was the time when Chronus reigned, characterized by peace, happiness and prosperity
-- Occured during the first and the best of the 5 ages of humanity
+- The Golden Peace was the time when Cronus reigned, characterized by peace, happiness and prosperity
+- Occurred during the first and the best of the 5 ages of humanity
 #### The Olympians (In depth)
 **Zeus**
-- Zeus is lor of Sky and heavens
+- Zeus is lord of Sky and heavens
 - Most Powerful God
-- Gained power in Olympus, after overthrowing Chronus
+- Gained power in Olympus, after overthrowing Cronus
 - The Primordial Gods and Fates are considered greater than him
 - The Eagle, Aegis and lightning bolt are associated with him
 - The Aegis is a type of shield
