@@ -6,6 +6,7 @@
       {
         "id": "fd1e48f6965ab790",
         "type": "tabs",
+        "dimension": 77.57847533632287,
         "children": [
           {
             "id": "23e371c49b3007a8",
@@ -26,6 +27,7 @@
       {
         "id": "fbfd581b2fa877b5",
         "type": "tabs",
+        "dimension": 22.421524663677133,
         "children": [
           {
             "id": "40bfe97386c374c9",
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e3e107b87590e77",
@@ -116,7 +119,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -187,17 +190,19 @@
   },
   "active": "23e371c49b3007a8",
   "lastOpenFiles": [
+    "Religion/Guide - Relgion.md",
+    "Religion/Foundations of Catholocism/Ch6/Pg 165 Review.md",
+    "Math/Guide - Math.md",
+    "English/English 1H/Mythology Notes/Mythology Part 1.md",
     "README.md",
     "gen. info/cloning the repo.md",
     "gen. info/Images/Pasted image 20250823171911.png",
     "gen. info/Images/Pasted image 20250823171806.png",
     "().md",
-    "English/English 1H/Mythology Notes/Mythology Part 1.md",
     "gen. info/root.md",
     "gen. info",
     "English/Guide - English.md",
     "English/English 1H/Writing/Writing Essays.md",
-    "Math/Guide - Math.md",
     "English/English 1H/Mythology Notes/Part 1.md"
   ]
 }

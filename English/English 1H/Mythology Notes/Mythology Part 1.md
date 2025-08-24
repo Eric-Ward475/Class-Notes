@@ -1,10 +1,15 @@
-## Index
+### Index
 [[#The Gods & Titans]]
 	[[#Titans]]
 	[[#The 12 Olympians]]
 	[[#The Golden Peace]]
 	[[#The Olympians (In depth)]]	
-## The Gods & Titans
+	[[#The Lesser Gods]]
+		[[#The Gods of the Waters]]
+		[[#The Underworld]]
+		[[#The Lesser Gods of Earth]]
+	[[#The Roman Gods]]
+### The Gods & Titans
 #### Titans
 - The Titans were also called Elder Gods
 - Titans were very large and powerful
@@ -117,3 +122,158 @@
 - Goddess of the hearth, fire and of the right ordering of domesticity and the family
 - Sister to Zeus, Poseidon, Hades, Demeter and Hera
 - First child of Cronus and Rhea
+
+#### The Lesser Gods
+- There were other divinities in Olympus, besides the Olympians
+
+**Eros**
+- The most important was called Eros, the God of love
+- Eros was known for not being capable of wrongdoing, nor could he stand it, according to Plato
+- Eros was Aphrodite's Son
+
+**Hebe**
+- Goddess of youth and young people
+- Daughter of Zeus and Hera
+- Sometimes, she appears as cup bearer to the Gods.
+- She only appears in one story, that of her marriage to Hercules
+
+**Iris**
+- Goddess of the Rainbow and a messenger of the Gods
+- The first messenger of the Gods, preceding Hermes
+
+**The Graces**
+- There were 3, and they were all sisters
+- Aglaia, Euphrosyne and Thalia
+- They were the daughters of Zeus and Eurynome, who was a child of the Titan, Ocean
+- They "give life its bloom"
+- Their companions were The Muses
+- Not distinguished from each other
+
+**The Muses**
+- There were 9 in total
+- They were the daughters of Zeus and Mnemosyne.
+- Like the Graces, they were not distinguished from each other
+- Hesiod says, "They are all of one mind, their hearts are set upon song and their spirit is free from care. He is happy whom the Muses love. For through a man has sorrow and grief in his soul, yet when the servant of the Muses sings, at once he forgets his dark thoughts and remembers not his troubles. Such is the holy gift of the Muses to men."
+- Later, they all had their own unique 'field' Clio was Muse of history, Urania of astronomy, Melpomene of tragedy, Thalia of comedy, Terpsichore of the dance, Calliope of epic poetry, Erato of love-poetry, Polyhymnia of songs to the Gods and Euterpe of lyric poetry
+- Hesiod lived near one of the Muses' mountains, Helicon
+- They were the companions of Apollo and the Graces
+
+#### The Gods of the Waters
+- Poseidon was the Lord and Ruler of the Sea (Mediterranean and the Black Sea)
+- Ocean was a titan, Lord of the river Ocean, which was the river encircling the earth. His wife was Tethys
+- Pontus mean the Deep Sea, was a son of Mother Earth and the father of Nereus, who was a sea-god way more important than himself
+- Nereus was called 'the Old Man of the Sea (Mediterranean)' He was said to be trustworthy and gentle. His wife was Doris, a daughter of Ocean. They had 50 daughters, the nymphs of the Sea, called Nereids
+- Triton was the trumpeter of the Sea. His trumpet was a great shell. Son of Poseidon
+- Protheus was sometimes said to be Poseidon's son, sometimes his assistant. Power to tell the future
+- The Naiads were brook, spring and fountain dwellers
+- Leucothea and her son Palaemon were once mortal, but became divinities, and were unimportant
+
+#### The Underworld
+- The Underworld was also known as 'The Kindgdom of the Dead'
+- Ruled over by Hades and his queen, Persephone
+- The Underworld is also sometimes simply called 'Hades'
+- According to the Iliad, it lies beneath the Earth
+- In the Odyssey, it is past the edge of the world, across Ocean (the world-encircling river)
+- Later poets told its entrance as a cavern or near deep lakes
+- The 2 most major divisions were Tartarus and Erebus, with the first being the worst of the 2
+- Erebus was where the dead first passed after death
+- In Homer's poems, it is vague. 'A shadowy place inhabited by shadows'
+- Later poets describe it as a place where the good are rewarded and the wicked punished
+- Virgil is the only poet who gives clear geography of the Underworld
+- According to Mythology by Edith Hamilton: The path down to it leads to where Acheron, the river of woe, pours into Cocytus, the river of lamentation. An aged boatman named Charon ferries the souls of the dead across the water to the farther bank, where stands the adamantine gate to Tartarus (the name Virgil prefers). Charon will receive into his boat only the souls of those upon whose lips the passage money was placed when they died and who were duly buried. On guard before the gate sits CERBERUS, the three-headed, dragon-tailed dog, who permits all spirits to enter, but none to return. On his arrival each one is brought before three judges, Rhadamanthus, Minos, and Aeacus, who pass sentence and send the wicked to everlasting torment and the good to a place of blessedness called the Elysian Fields. Three other rivers, besides Acheron and Cocytus, separate the underworld from the world above: Phlegethon, the river of fire; Styx, the river of the unbreakable oath by which the gods swear; and Lethe, the river of forgetfulness. Somewhere in this vast region is Pluto’s palace, but beyond saying that it is many-gated and crowded with innumerable guests, no writer describes it. Around it are wide wastes, wan and cold, and meadows of asphodel, presumably strange, pallid, ghostly flowers. We do not know anything more about it. The poets did not care to linger in that gloom-hidden abode.
+- The Furies are placed by Virgil here, where they punish the evil
+- They were usually said to be 3 in number, Tisiphone, Megaera and Alecto
+- Sleep and Death, his brother dwelt in the lower world
+
+#### The Lesser Gods of Earth
+**Earth**
+- Earth herself was called the All-Mother but was not a divinity
+
+**Dionysus and Demeter**
+- The God of the Vine, Dionysus and Demeter were supreme over the Earth
+
+**Pan**
+- Pan was Hermes' son, noisy and cheerful
+- His home included all wild places and he was also part goat
+- He was a great musician 
+- He was ugly
+
+**Silenus**
+- Silenus was sometimes said to be Pan's some, sometimes his brother
+- He was a fat old man who was always very drunk.
+
+**Castor and Pollux**
+- Castor and Pollux were not gods, but were immortal and were the protectors of sailors
+- They lived half their time in Olympus, half on Earth
+- Castor was a tamer of horses, and Homer considered him greater than Pollux
+
+**Sileni**
+- The Sileni were part men and part horse
+- They walked on 2 legs, but often had horses hooves instead of feet
+- They always had horses' tails.
+
+**Satyrs**
+- The Satyrs were goat-men and loved the wild
+
+**Oreads and Dryads (Wild Nymphs)**
+- Oreads were nymphs of the mountains
+- Dryads were nymphs of the trees
+- They were bound to their tree for life
+
+**Aeolus**
+- Aeolus was King of the Woods
+- He lived on an island called Aeolia
+
+**The 4 chief winds**
+- There were 4 chief winds, Boreas of the North, Zephr of the West, Notus of the South and Eurus of the East
+
+**Non human, non divine figures**
+- The Centaurs
+	- Half man, half horse
+	- Known for savageness
+	- An important one, Chiron was known for his goodness and wisdom
+- The Gorgons
+	- There were only 3, with 2 being immortal
+	- They were dragonlike, having wings
+	- Their gaze turned men to stone
+	- Their father was Phorcys
+- The Graiae
+	- The Gorgons' sisters
+	- There were also 3 of them, but they all shared one eye
+- The Sirens
+	- Had enchanting voices, that lured sailors to their death
+	- No one knew what they looked like as anyone who got close enough died
+- The Fates
+	- There were 3, and they decided the life for all mortal men
+
+#### The Roman Gods
+- The 12 Olympians had Roman counterparts, sharing most of the same characteristics
+- They were:
+	- Jupiter (Zeus)
+	- Juno (Hera)
+	- Neptune (Poseidon)
+	- Vesta (Hestia)
+	- Mars (Ares)
+	- Minerva (Athena)
+	- Venus (Aphrodite)
+	- Mercury (Hermes)
+	- Diana (Artemis)
+	- Vulcan (Hephaestus)
+	- Ceres (Demeter)
+	- Apollo kept his Greek name
+	- Pluto, which was another Greek name for Hades also did, but was never called Hades
+
+- The Romans simply copied the Olympians
+- They were deeply religious but not imaginative
+- Before the Olympians, they had very vague definitions of their Gods
+- The most important truly Roman Gods were:
+	- Lares
+	- Penates
+
+- They protected the home and hearth
+- Each family owned a Lar, who was the spirit of an ancestor and several Penates (gods of the hearth and house)
+- The Fauns were Roman satyrs
+- Quirinus was the name for Romulus, founder of Rome
+- The Manes were spirits of the good dead. They were worshiped
+- The Lemures were the spirits of the wicked dead and were feared
+- The Camenae were goddesses who cared for springs and wells, cured disease and fortold the future
