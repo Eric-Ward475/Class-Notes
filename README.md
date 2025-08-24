@@ -19,6 +19,11 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 	- Click 'Open folder as vault' and select either the cloned repo's folder or where you extracted the .zip
 - Done!
 
+### Option 2 (Less tech required)
+This is not recommended, because no links within the notes will work. You can still use them, but some benefits may be lost.
+
+- Navigate through the folders within GitHub's website
+
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
 - Keep notes up to date and accurate
