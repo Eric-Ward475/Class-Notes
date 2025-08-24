@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mythology Part 1"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mythology Part 1"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mythology Part 1"
             }
           },
           {
@@ -156,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mythology Part 1"
             }
           }
         ]
@@ -182,7 +185,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "40bfe97386c374c9",
+  "active": "23e371c49b3007a8",
   "lastOpenFiles": [
     "README.md",
     "gen. info/cloning the repo.md",
