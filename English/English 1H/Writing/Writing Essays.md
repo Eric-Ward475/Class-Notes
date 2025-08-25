@@ -73,10 +73,31 @@
 **Shaping the Essay**
 - Outlining the thesis, topic sentences, CDs and CMs
 
-**Peer review**
+**Peer Review**
 - When someone on you academic level reviews your essay and gives feedback
 - Helps to better your essay's grammar, spelling and mechanics
 
 **Drafts**
 - First draft is the roughest version of the essay
 - The final is the end product, and what it submitted
+
+**Steps in the Writing Process**
+- 6 main steps
+	- Pre-Writing
+	- Shaping the Essay
+	- First Draft
+	- Peer response
+	- Revision
+	- Final Draft
+
+**Parts of the Essay**
+- 3 parts
+	- Introductory paragraph
+		- Thesis
+	- Body paragraphs
+		- Topic Sentence
+		- Chunk
+		- CD
+		- CM
+		- CS
+	- Conclusion paragraph
