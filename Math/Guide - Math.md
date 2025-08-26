@@ -1,3 +1,3 @@
 ## Geometry Honors
 ### Chapter 1
-[[Math/Geometry H/Ch1/notes]]
+[[Section 1.1 - Getting Started]]

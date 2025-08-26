@@ -9,8 +9,8 @@
 		[[#The Underworld]]
 		[[#The Lesser Gods of Earth]]
 	[[#The Roman Gods]]
-### The Gods & Titans
-#### Titans
+## The Gods & Titans
+### Titans
 - The Titans were also called Elder Gods
 - Titans were very large and powerful
 - There were many of them, but only a few are important
@@ -23,7 +23,7 @@
 - Themis: Titan of Justice
 - Atlas: Bore the world on his shoulders
 - Prometheus: The savior of man kind
-#### The 12 Olympians
+### The 12 Olympians
 - The Olympians succeeded the Titans
 - Zeus (or Jupiter) was the most significant of all gods. He was greater than all others combined
 - No divinities were greater than Zeus, except the Primordial Gods, or the elemental forces of the universe, such as Gaia (Earth) and Nyx (Night). The Fates, as in the Goddesses were also considered greater than Zeus. They control the course of human life and there were 3 of them.
@@ -42,10 +42,10 @@
 ![[Pasted image 20250821192416.png]]
 - Poseidon created the first horse for man
 - After the coming of Zeus, Titans other than Cronus were not banished from Olympus, but held much lower power and prestige than before
-#### The Golden Peace
+### The Golden Peace
 - The Golden Peace was the time when Cronus reigned, characterized by peace, happiness and prosperity
 - Occurred during the first and the best of the 5 ages of humanity
-#### The Olympians (In depth)
+### The Olympians (In depth)
 **Zeus**
 - Zeus is lord of Sky and heavens
 - Most Powerful God
@@ -123,7 +123,7 @@
 - Sister to Zeus, Poseidon, Hades, Demeter and Hera
 - First child of Cronus and Rhea
 
-#### The Lesser Gods
+### The Lesser Gods
 - There were other divinities in Olympus, besides the Olympians
 
 **Eros**
@@ -158,7 +158,7 @@
 - Hesiod lived near one of the Muses' mountains, Helicon
 - They were the companions of Apollo and the Graces
 
-#### The Gods of the Waters
+### The Gods of the Waters
 - Poseidon was the Lord and Ruler of the Sea (Mediterranean and the Black Sea)
 - Ocean was a titan, Lord of the river Ocean, which was the river encircling the earth. His wife was Tethys
 - Pontus mean the Deep Sea, was a son of Mother Earth and the father of Nereus, who was a sea-god way more important than himself
@@ -168,7 +168,7 @@
 - The Naiads were brook, spring and fountain dwellers
 - Leucothea and her son Palaemon were once mortal, but became divinities, and were unimportant
 
-#### The Underworld
+### The Underworld
 - The Underworld was also known as 'The Kindgdom of the Dead'
 - Ruled over by Hades and his queen, Persephone
 - The Underworld is also sometimes simply called 'Hades'
@@ -185,7 +185,7 @@
 - They were usually said to be 3 in number, Tisiphone, Megaera and Alecto
 - Sleep and Death, his brother dwelt in the lower world
 
-#### The Lesser Gods of Earth
+### The Lesser Gods of Earth
 **Earth**
 - Earth herself was called the All-Mother but was not a divinity
 
@@ -246,7 +246,7 @@
 - The Fates
 	- There were 3, and they decided the life for all mortal men
 
-#### The Roman Gods
+### The Roman Gods
 - The 12 Olympians had Roman counterparts, sharing most of the same characteristics
 - They were:
 	- Jupiter (Zeus)
@@ -265,15 +265,19 @@
 
 - The Romans simply copied the Olympians
 - They were deeply religious but not imaginative
+
+**Truly Roman Figures**
 - Before the Olympians, they had very vague definitions of their Gods
 - The most important truly Roman Gods were:
 	- Lares
 	- Penates
-
-- They protected the home and hearth
+	- They protected the home and hearth
 - Each family owned a Lar, who was the spirit of an ancestor and several Penates (gods of the hearth and house)
 - The Fauns were Roman satyrs
 - Quirinus was the name for Romulus, founder of Rome
-- The Manes were spirits of the good dead. They were worshiped
+- The Manes were spirits of the good dead and they were worshiped
 - The Lemures were the spirits of the wicked dead and were feared
 - The Camenae were goddesses who cared for springs and wells, cured disease and fortold the future
+
+### The 2 Great Gods of Earth
+- They were Demeter and Ceres

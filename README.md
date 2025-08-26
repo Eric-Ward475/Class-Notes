@@ -4,6 +4,8 @@ This repo is intended to help other who may be taking the same classes as I am r
 
 By using these nots, you are agreeing not to use them to cheat, only to study or use as reference. In addition, I will not be liable for any cheating.
 
+Any review questions that are graded will not be posted until after the due date.
+
 ### Setup
 ***There are 2 options for set up***
 
