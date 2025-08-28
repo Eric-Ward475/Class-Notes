@@ -9,6 +9,8 @@
 		[[#The Underworld]]
 		[[#The Lesser Gods of Earth]]
 	[[#The Roman Gods]]
+	[[#The 2 Great Gods of Earth]]
+	[[#The Story of Demeter]]
 ## The Gods & Titans
 ### Titans
 - The Titans were also called Elder Gods
@@ -280,4 +282,80 @@
 - The Camenae were goddesses who cared for springs and wells, cured disease and fortold the future
 
 ### The 2 Great Gods of Earth
-- They were Demeter and Ceres
+- They were Demeter and Dionysus
+	- Demeter was goddess of farming and agriculture
+	- Dionysus was god of the vine, sometimes considered an Olympian, depending on the writer
+	- They experienced great sadness when the frost came to Earth and wiped out the vines and crops after the harvest
+
+**Demeter**
+- Demeter is known to be older because farm fields (specifically corn) came much before vine farming was a thing
+	- Demeter is a goddess because farming crops was not seen as the duty of men, theirs was stereo-typically to act as warriors, hunters and scholars
+	- This does not mean that men never worked as farmers, just that the profession was generally feminine
+- The Greeks believed that at any moment Demeter could be present at any farm field, as they were her temples
+- Rather than bloody sacrifices (that men tended to enjoy) , Demeter was worshiped by the careful tending to crops
+- Her chief festival was during the harvest
+	- In early days, it was probably a simple festival in which farmers gave thanks for their harvest, and reverently broke bread made with the freshly harvested wheat
+	- In later times, the festival grew to be a much more major event, but little is known about it
+	- What was known as the great festival occurred in September, but only every 5 years, and lasted 9 days
+		- It was a time of processions, sacrifices and utmost reverence
+		- Most everyday tasks were suspended in honor of it
+		- The main part of this festival was a ceremony held in the great temple of Demeter, in a town called Eleusis
+			- Little is known about it because all people involved in it were bound to secrecy regarding what went on inside; only stray bits of information are known
+			- The event was called the 'Eleusinian Mysteries'
+			- The event was held in great reverence in both Roman and Greek traditions
+
+**Dionysus**
+- No one knows clearly when or how Dionysus came to join Demeter at the temple of Eleusis
+- He was considered very close to Demeter in importance
+- He was worshiped alongside Demeter
+- The harvest was also Dionysus' festival, specifically when the grapes from the harvest were brought to the grape press to be made into wine
+
+### The Story of Demeter
+- Demeter had a single daughter, Persephone
+	- Persephone was maiden of the maiden of the Spring
+	- Goddess of spring and nature
+	- Wife of Hades, therefore the Queen of the Underworld
+**Abduction of Persephone**
+- Demeter had lost Persephone, and in grief withheld her gifts from the earth, causing the Ice age
+- Persephone had been abducted by Hades to the underworld, and her mother heard her cries
+	- Demeter tried to follow Hades and reclaim her daughter, but could not because no one told her the truth about where Persephone was
+	- Demeter wandered for 9 days, looking for Persephone
+	- Eventually, the Sun told her what had happened
+	- Demeter sunk to an even lower depression, and left Olympus, living on Earth among mortals
+**Demeter's Life on Earth**
+- She disguised herself so no mortals could distinguish her as a goddess
+- While on Earth, she came to Eleusis and was at a well when 4 maidens approached her
+	- They brought Demeter into their home
+	- The maidens' mother (Metaneira) offered Demeter wine, but Demeter turned down the offer, asking instead for barley-water flavored with mint, which was commonly a farmer's drink
+	- The mother had a son, Demophoön, who she bore to Celeus
+		- Demeter was allowed to nurse this young boy, who grew like a young god
+		- Every day, Demeter gave him ambrosia (The food/drink of gods, that grants immortality) and placed him in the fire to 'burn away his mortal nature'
+		- One day, the mother saw Demeter placing the child in the fire
+			- Thinking that Demeter was trying to burn the child alive, she screamed and in doing so, broke the ritual that Demeter was performing
+			- This caused Demeter to get upset, because she was actually trying to give the child eternal youth and freedom from death
+
+**Dionysus**
+- Dionysus was the only god whose parents were not both gods
+	- His mother was a woman named Semele, a Theban princess
+	- His father was Zeus
+	- Zeus swore on the river Styx that he would do anything that she asked of him
+		- Swearing something on the Styx was an unbreakable vow that not even Zeus could break
+		- Semele asked to see Zeus in his full glory as King of Heaven and Lord of the Thunderbolt
+		- No mortal can see any god in their true godly form and live, but Zeus had no choice but to reveal himself to her, as he had taken a vow
+		- This wish was put in Semele's heart by Hera, who was Jealous as always
+- When he was grown, he wandered to many strange places
+	- Everywhere he went, he taught men about the vine
+	- Everyone accepted him as a god, until he came near to his own country
+		- One day, he was abducted by pirates hoping to kidnap him for a ransom
+		- He looked like the son of royalty, and the pirates thought that his parents would pay much for his safety
+		- They were unable to bind him, the ropes that they tried to use fell apart when they touched his hands or feet
+		- A single helmsman understood what was happening and announced that this man must be a god and should be set free at once or they would all be punished
+			- The captain mocked him for this
+		- The ship would not move when the pirates tried to sail away
+		- The ship was overtaken by the power of Dionysus, with vines taking over and wine running down the decks
+		- Dionysus turned all the men to dolphins as they tried to flee overboard, but had mercy on the man who acknowledged him as a god
+- Dionysus could be kind and merciful to men, but was also cruel sometimes
+- Dionysus fell in love with a princess, and after her death, went to the underworld to retake her from Death
+	- Death yielded, and the god brought the princess to Olympus, where she was accepted by the other gods
+- Dionysus' intermittent temperament makes sense because wine not only makes men happier, it also makes them violent and drunk
+- 
