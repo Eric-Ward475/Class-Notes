@@ -2,7 +2,7 @@ These are all of my class notes, digitized and hosted on GitHub.
 Direct answers to tests, quizzes and ongoing assignments will not be included here, and tests will be under no circumstances included, as per the Providence Catholic Academic Integrity Code
 This repo is intended to help other who may be taking the same classes as I am right now in the future, as well as those currently in those classes.
 
-By using these nots, you are agreeing not to use them to cheat, only to study or use as reference. In addition, I will not be liable for any cheating.
+By using these notes, you are agreeing not to use them to cheat, only to study or use as reference. In addition, I will not be liable for any cheating.
 
 Any review questions that are graded will not be posted until after the due date.
 
@@ -31,5 +31,8 @@ This is not recommended, because no links within the notes will work. You can st
 - Keep notes up to date and accurate
 
 ### Change log
-8/22/25 - Created README.md, and updated some existing files
-8/23/25 - Fixed some annoying grammar and spelling in some files
+**8/22/25** - Created README.md, and updated some existing files
+
+**8/23/25** - Fixed some annoying grammar and spelling in some files
+
+**8/28/25** - Added a lot of math notes and some more mythology
