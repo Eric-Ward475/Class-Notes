@@ -358,4 +358,38 @@
 - Dionysus fell in love with a princess, and after her death, went to the underworld to retake her from Death
 	- Death yielded, and the god brought the princess to Olympus, where she was accepted by the other gods
 - Dionysus' intermittent temperament makes sense because wine not only makes men happier, it also makes them violent and drunk
+- His saddest time was also during the winter, where all vines were frozen over and made to look like they would never bear fruit or leaves again
+
+### How the World and Mankind Were Created
+**Pre Earth**
+- Before the creation of Earth and the gods, the story was very vague
+- Earth and Heaven were given a personality of sorts, but were not recognized as alive
+- Earth was simply created, the Greeks never tried to explain how or why, simply that it just happened
+
+**Early Earth**
+- The first creatures that resembled life were the children of Mother Earth and Father Heaven (or Gaea and Ouranos)
+- Those creatures were monster, similar to how we believe that the Earth was inhabited by dinosaurs, the Greeks though of beasts like them too
+- The Greeks imagined them as somewhat like men, but still not human
+- They were very strong
+- In most stories, they do not seem alive, rather as unstoppable forces that shaped the Earth
+- Mother Earth and Father Heaven produced the Titans
+- Cronus attacked Ouranos, doing a lot of damage, and from his blood, the Giants (4th race of monsters) sprang from his blood, alongside the Furies
+- The Furies pursue and punish sinners
+- Cronus was lord of the universe, with his sister-queen, Rhea
+- The time period of Cronus' rule was called the Golden Age
+
+**The Overthrowing of Cronus and the Rise of Zeus**
+- After an unknown amount of time, Zeus (Son of Cronus and Rhea) rebelled against Cronus
+- Zeus had a good reason to do so, when Cronus had learned that one of his children would overthrow him one day, he swallowed each of them right at their birth
+- Rhea was not happy with her children being eaten, so after Zeus' birth, she had him secretly carried off to Crete, where he lived until adulthood
+- Instead of giving Cronus Zeus to swallow, Rhea gave him a large stone wrapped in swaddling clothes, tricking Cronus
+- When Zeus was grown, he forced Cronus (with the help of the Earth, his grandmother) to disgorge (vomit) the rest of the children who had been swallowed by Cronus
+- After this, there was a terrible was between the Titans, lead by Cronus, against Zeus, with the help of his 5 brothers and sisters
+- This war almost destroyed the universe
+- The Titans were defeated by Zeus, partly because Zeus had released the monsters that had formed the Earth (book calls them hundred headed monsters)
+- One Titan, Prometheus, was known for being very wise and took sides with Zeus
+- After the war, Zeus punished his enemies brutally
+- The Titan Atlas was punished worse than any Titan, he was forced to bear the entire weight of the world on his shoulders
+
+**Post War**
 - 
