@@ -1,8 +1,8 @@
 ### Command line (Linux):
 1. Install git:
-	1. Install the package 'git' with your package manager
+	1. Install the package `git` with your package manager
 2. Clone the repo:
-	1. git clone https://github.com/Eric-Ward475/Class-Notes.git
+	1. `git clone https://github.com/Eric-Ward475/Class-Notes.git`
 3. Set up with Obsidian:
 	1. See the [readme](https://github.com/Eric-Ward475/Class-Notes?tab=readme-ov-file#setup)for the rest of the guide
 
