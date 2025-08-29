@@ -392,4 +392,61 @@
 - The Titan Atlas was punished worse than any Titan, he was forced to bear the entire weight of the world on his shoulders
 
 **Post War**
-- 
+- Even after the war was over, and the Titans punished, Zeus was not completely victorious
+- Earth gave birth to her last and worst offspring, Typhon
+- Zeus had thunder and lightning solely under his control
+- He used them to strike down Typhon
+- After Typhon, there was one more attempt made to unseat Zeus: the Giants' rebellion
+- At this time, the rest of the gods were very strong and they assisted Zeus alongside Hercules (a son of Zeus)
+- The giants were defeated and sent down to Tartarus
+- From then on, the gods ruled as undisputed lords of all creation
+
+**Creation of mankind**
+- The earth was believed to be a round disk, divided into two equal parts by the Mediterranean
+- Around the disk-earth, is the great river, Ocean
+	- Crossing over Ocean, to the far banks were mysterious people who few people ever saw
+	- The Cimmerians lived that
+	- On Ocean's bank was the abode of the blessed dead
+		- There is no snowfall here or winter at all
+		- It is a perfect land
+- There are multiple stories for the appearance of mankind
+	- According to one story, the gods delegated the creation of man to Prometheus, known for his wisdom (even wiser than the gods)
+		- Prometheus' brother, Epimetheus was originally in charge or the creation of man, but was too impulsive and gave all the good qualities to animals, rather than men
+		- Prometheus took over creation, after his brother asked him for help
+		- He made men upright animals, gave them intelligence and brought them a lit torch from heaven, giving them fire; a protection far better than anything else
+	- In another story, the gods themselves created men
+		- Each race was named after a metal that they were crafted in an experiment from
+		- They first made a golden race, mortal but lived like gods with no pain, toil or sadness
+		- Next, the gods made silver, an inferior race with little intelligence. They could not keep from injuring each other, and their spirits did not live on after they died
+		- The next were brass, they were very strong, but very violent. They destroyed themselves in wars
+		- They were followed by a race of godlike heroes who fought glorious wars and went on great adventures, after their passing, they went to the isles of the blessed, where they lived in perfect bliss forever
+		- The final race is the one that still exists on earth: the iron race
+		- They live in evil times, and their nature is of evil, never resting from toil and sorrow
+		- The children are always inferior to their fathers
+- During the Golden Age, only men were on the earth; there were no women
+- Zeus created women later in anger at Prometheus for caring so much for men
+	- Women were meant to be a punishment for mankind; a great evil
+	- The first woman was Pandora, created by Zeus as an embodiment of evil towards men
+	- She was described as 'a sweet and lovely thing to look upon, in the likeness of a shy maiden'
+	- All the gods gave her gifts
+	- Pandora means "the gift of all"
+	- From Pandora comes the race of women, who are an evil to men, with a nature to do evil
+- Another story of the creation of Pandora;
+	- Zeus created a woman, a person designed to be a problem, and give her a box containing something harmful from each of the gods, and forbade her to ever open it
+	- Zeus sent her to Epimetheus, who was glad for a new type of man
+	- Prometheus had warned his brother not to take anything from Zeus, but he did anyways
+	- Epimetheus took Pandora, and 'afterward when that dangerous thing, a woman, was his, he understood how good his brother's advice had been'
+	- Pandora, like all women had a very strong sense of curiosity
+	- She decided that she had to know what was in the box, and one day, opened the lid
+		- From the lid, plagues, sorrow and mischief emerged, never to leave mankind
+		- One single good thing was left inside, Hope
+		- It is mankind's sole comfort in misfortune
+
+**The Great Flood**
+- At one point, Zeus saw that mankind was becoming too wicked for the world
+- He called for the help for his brother, Poseidon, to flood to earth
+- Together, Zeus and Poseidon flooded the earth, wiping out all of mankind
+- Prometheus knew that the flood was coming, so he protected Deucalion and Pyrrha, he was Prometheus' son and she was the daughter of Epimetheus and Pandora
+- Prometheus told his son to build a large chest, store provisions and go into it with his wife
+- They survived the flood and were the only survivors
+- Zeus was not angered because of this because both survivors were pious, and faithful worshipers of the gods
