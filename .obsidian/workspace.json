@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce08ebb4bd0d70e",
+        "id": "420356913c07ad39",
         "type": "tabs",
         "children": [
           {
-            "id": "10fb96745ded5dcb",
+            "id": "e537787a267af48c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,7 +165,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "10fb96745ded5dcb",
+  "active": "e537787a267af48c",
   "lastOpenFiles": [
     "English/Guide - English.md",
     "gen. info/cloning the repo.md",
