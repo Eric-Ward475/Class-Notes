@@ -371,26 +371,37 @@
 ### How the World and Mankind Were Created
 **Pre Earth**
 - Before the creation of Earth and the gods, the story was very vague
-- Earth and Heaven were given a personality of sorts, but were not recognized as alive
-- Earth was simply created, the Greeks never tried to explain how or why, simply that it just happened
+- Earth and Heaven were given a personality of sorts, but were not recognized as alive; if they were it was 'in a way unique to them'
+
+**In the Beginning...**
+- In the beginning, there was nothing, then from the nothingness came Chaos, the vast immeasurable abyss (the literal universe)
+- Night and Erebus (the unfathomable depth where death dwells) came from Chaos
+- From darkness and death, Love was born
+- Love created Light, alongside its companion, Day
 
 **Early Earth**
-- The first creatures that resembled life were the children of Mother Earth and Father Heaven (or Gaea and Ouranos)
-- Those creatures were monster, similar to how we believe that the Earth was inhabited by dinosaurs, the Greeks though of beasts like them too
+- No one tried to explain the creation of the Earth
+- Earth was brought forth from Love and Light
+- Earth was vaguely a personality (Gaea), alongside Heaven (Ouranos)
+- The first creatures that resembled life were the children of Mother Earth and Father Heaven
 - The Greeks imagined them as somewhat like men, but still not human
-- They were very strong
 - In most stories, they do not seem alive, rather as unstoppable forces that shaped the Earth
+- Three of them were incredibly huge, each having 100 hands and 50 heads
+- Three others were called Cyclopes
 - Mother Earth and Father Heaven produced the Titans
-- Cronus attacked Ouranos, doing a lot of damage, and from his blood, the Giants (4th race of monsters) sprang from his blood, alongside the Furies
-- The Furies pursue and punish sinners
+- Cronus attacked Ouranos, because he had imprisoned the 100 headed beings
+	- Cronus wounded Ouranos terribly, and from his blood, the Giants (4th race of monsters) sprang from his blood, alongside the Furies
+	- The Furies pursue and punish sinners
 - Cronus was lord of the universe, with his sister-queen, Rhea
 - The time period of Cronus' rule was called the Golden Age
 
 **The Overthrowing of Cronus and the Rise of Zeus**
 - After an unknown amount of time, Zeus (Son of Cronus and Rhea) rebelled against Cronus
-- Zeus had a good reason to do so, when Cronus had learned that one of his children would overthrow him one day, he swallowed each of them right at their birth
-- Rhea was not happy with her children being eaten, so after Zeus' birth, she had him secretly carried off to Crete, where he lived until adulthood
-- Instead of giving Cronus Zeus to swallow, Rhea gave him a large stone wrapped in swaddling clothes, tricking Cronus
+- Zeus had a good reason to do so;
+	- When Cronus had learned that one of his children would overthrow him one day, he swallowed each of them right at their birth
+- Rhea was not happy with her children being eaten
+	- After Zeus' birth, Rhea had him secretly taken to Crete, where he lived until adulthood
+	- Instead of giving Cronus Zeus to swallow, Rhea gave him a large stone wrapped in swaddling clothes, tricking Cronus
 - When Zeus was grown, he forced Cronus (with the help of the Earth, his grandmother) to disgorge (vomit) the rest of the children who had been swallowed by Cronus
 - After this, there was a terrible was between the Titans, lead by Cronus, against Zeus, with the help of his 5 brothers and sisters
 - This war almost destroyed the universe
@@ -402,59 +413,69 @@
 **Post War**
 - Even after the war was over, and the Titans punished, Zeus was not completely victorious
 - Earth gave birth to her last and worst offspring, Typhon
-- Zeus had thunder and lightning solely under his control
-- He used them to strike down Typhon
+	- Zeus had thunder and lightning solely under his control
+	- He used them to strike down Typhon
 - After Typhon, there was one more attempt made to unseat Zeus: the Giants' rebellion
-- At this time, the rest of the gods were very strong and they assisted Zeus alongside Hercules (a son of Zeus)
-- The giants were defeated and sent down to Tartarus
-- From then on, the gods ruled as undisputed lords of all creation
+	- The rest of the gods were very strong now
+	- They assisted Zeus alongside Hercules (a son of Zeus)
+- The giants were defeated; sent down to Tartarus
+- From then on, the gods ruled as undisputed lords  of everything
 
 **Creation of mankind**
-- The earth was believed to be a round disk, divided into two equal parts by the Mediterranean
-- Around the disk-earth, is the great river, Ocean
+- The Earth was believed to be a round disk, divided into two equal parts by the Mediterranean, and surrounded by Ocean
 	- Crossing over Ocean, to the far banks were mysterious people who few people ever saw
-	- The Cimmerians lived that
+	- The Cimmerians lived there
 	- On Ocean's bank was the abode of the blessed dead
-		- There is no snowfall here or winter at all
-		- It is a perfect land
+		- Here, there is perfect weather all the time
+		- It is a perfect land of perfect bliss
 - There are multiple stories for the appearance of mankind
-	- According to one story, the gods delegated the creation of man to Prometheus, known for his wisdom (even wiser than the gods)
-		- Prometheus' brother, Epimetheus was originally in charge or the creation of man, but was too impulsive and gave all the good qualities to animals, rather than men
-		- Prometheus took over creation, after his brother asked him for help
-		- He made men upright animals, gave them intelligence and brought them a lit torch from heaven, giving them fire; a protection far better than anything else
+	- According to one story, the gods delegated the creation of man to Prometheus and his brother, Epimetheus
+		- Epimetheus was known for being extremely impulsive, directly contrasting Prometheus, who was incredibly wise
+		- Epimetheus impulsively gave all strong qualities to other animals, then asked his brother for help in creating man
+		- Prometheus made man better than animals, making them:
+			- Upright
+			- Intelligent
+			- He went to Olympus and brought down a torch with fire for mankind, the best defense of all
 	- In another story, the gods themselves created men
 		- Each race was named after a metal that they were crafted in an experiment from
-		- They first made a golden race, mortal but lived like gods with no pain, toil or sadness
-		- Next, the gods made silver, an inferior race with little intelligence. They could not keep from injuring each other, and their spirits did not live on after they died
-		- The next were brass, they were very strong, but very violent. They destroyed themselves in wars
-		- They were followed by a race of godlike heroes who fought glorious wars and went on great adventures, after their passing, they went to the isles of the blessed, where they lived in perfect bliss forever
-		- The final race is the one that still exists on earth: the iron race
-		- They live in evil times, and their nature is of evil, never resting from toil and sorrow
-		- The children are always inferior to their fathers
-- During the Golden Age, only men were on the earth; there were no women
-- Zeus created women later in anger at Prometheus for caring so much for men
-	- Women were meant to be a punishment for mankind; a great evil
+		- They first made a golden race
+			- Mortal but lived like gods with no pain, toil or sadness
+		- Next, the gods made silver
+			- Inferior race with little intelligence
+			- They could not keep from injuring each other
+			- Their spirits did not live on after they died
+		- The next were brass
+			- They were very strong, but very violent
+			- They destroyed themselves in wars
+			- They were a race of heroes who fought glorious wars and went on great adventures
+			- After their passing, they went to the isles of the blessed, where they lived in perfect bliss forever
+		- The next race is the iron race
+			- They live in evil times, and their nature is of evil, never resting from toil and sorrow, which caused Zeus to later exterminate them in a flood
+			- The children are always inferior to their fathers
+- During the Age of the Golden Race, only men were on the earth; there were no women
+- Zeus created women later in anger at Prometheus for caring so much for men and giving them fire
+	- Women were meant to be a punishment for mankind; a great evil to them
 	- The first woman was Pandora, created by Zeus as an embodiment of evil towards men
 	- She was described as 'a sweet and lovely thing to look upon, in the likeness of a shy maiden'
-	- All the gods gave her gifts
+	- All the gods gave her gifts of beauty
 	- Pandora means "the gift of all"
-	- From Pandora comes the race of women, who are an evil to men, with a nature to do evil
+	- From Pandora comes the race of women, who are an evil to men
 - Another story of the creation of Pandora;
 	- Zeus created a woman, a person designed to be a problem, and give her a box containing something harmful from each of the gods, and forbade her to ever open it
 	- Zeus sent her to Epimetheus, who was glad for a new type of man
-	- Prometheus had warned his brother not to take anything from Zeus, but he did anyways
-	- Epimetheus took Pandora, and 'afterward when that dangerous thing, a woman, was his, he understood how good his brother's advice had been'
+		- Prometheus had warned his brother not to take anything from Zeus
+		- Epimetheus took Pandora, and "afterward when that dangerous thing, a woman, was his, he understood how good his brother's advice had been"
 	- Pandora, like all women had a very strong sense of curiosity
 	- She decided that she had to know what was in the box, and one day, opened the lid
 		- From the lid, plagues, sorrow and mischief emerged, never to leave mankind
-		- One single good thing was left inside, Hope
-		- It is mankind's sole comfort in misfortune
+		- One single good thing was left inside, Hope, mankind's sole comfort in misfortune
 
 **The Great Flood**
-- At one point, Zeus saw that mankind was becoming too wicked for the world
-- He called for the help for his brother, Poseidon, to flood to earth
-- Together, Zeus and Poseidon flooded the earth, wiping out all of mankind
-- Prometheus knew that the flood was coming, so he protected Deucalion and Pyrrha, he was Prometheus' son and she was the daughter of Epimetheus and Pandora
-- Prometheus told his son to build a large chest, store provisions and go into it with his wife
-- They survived the flood and were the only survivors
-- Zeus was not angered because of this because both survivors were pious, and faithful worshipers of the gods
+- At one point, Zeus saw that mankind (Iron race) was becoming too wicked for the world
+- He was helped by Poseidon
+	- Zeus and Poseidon flooded the earth, wiping out all of mankind
+- Prometheus knew that the flood was coming;
+	- He protected Deucalion (Prometheus' son) and Pyrrha (Daughter of Epimetheus and Pandora)
+	- Prometheus told his son to build a large chest, store provisions and go into it with Deucalion
+	- They were the only survivors of the flood
+	- Zeus was not angered as both survivors were pious, and faithful worshipers of the gods
