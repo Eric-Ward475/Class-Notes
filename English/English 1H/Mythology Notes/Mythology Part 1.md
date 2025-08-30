@@ -347,16 +347,17 @@
 	- Everywhere he went, he taught men about the vine
 	- Everyone accepted him as a god, until he came near to his own country
 		- One day, he was abducted by pirates hoping to kidnap him for a ransom
-		- He looked like the son of royalty, and the pirates thought that his parents would pay much for his safety
-		- They were unable to bind him, the ropes that they tried to use fell apart when they touched his hands or feet
-		- A single helmsman understood what was happening and announced that this man must be a god and should be set free at once or they would all be punished
-			- The captain mocked him for this
-		- The ship would not move when the pirates tried to sail away
-		- The ship was overtaken by the power of Dionysus, with vines taking over and wine running down the decks
-		- Dionysus turned all the men to dolphins as they tried to flee overboard, but had mercy on the man who acknowledged him as a god
+			- He looked like the son of royalty, and the pirates thought that his parents would pay much for his safety
+			- They were unable to bind him, the ropes that they tried to use fell apart when they touched his hands or feet
+			- A single helmsman understood what was happening and announced that this man must be a god and should be set free at once or they would all be punished
+				- The captain mocked him for this
+			- The ship would not move when the pirates tried to sail away
+			- The ship was overtaken by the power of Dionysus, with vines taking over and wine running down the decks
+			- Dionysus turned all the men to dolphins as they tried to flee overboard, but had mercy on the man who acknowledged him as a god
 - Dionysus could be kind and merciful to men, but was also cruel sometimes
-- Dionysus fell in love with a princess, and after her death, went to the underworld to retake her from Death
-	- Death yielded, and the god brought the princess to Olympus, where she was accepted by the other gods
+- Dionysus was sad because he had never met his mother, so he went to the underworld to retake her from Death
+	- Death yielded, and the god brought her to Olympus, where she was accepted by the other gods
+	- Even though she was a mortal, she was still accepted to Olympus, as she was the mother of a god
 - Dionysus' intermittent temperament makes sense because wine not only makes men happier, it also makes them violent and drunk
 - His saddest time was also during the winter, where all vines were frozen over and made to look like they would never bear fruit or leaves again
 
