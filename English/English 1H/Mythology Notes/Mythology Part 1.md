@@ -288,9 +288,9 @@
 	- They experienced great sadness when the frost came to Earth and wiped out the vines and crops after the harvest
 
 **Demeter**
+- Goddess of Corn, the Harvest and Crops
 - Demeter is known to be older because farm fields (specifically corn) came much before vine farming was a thing
-	- Demeter is a goddess because farming crops was not seen as the duty of men, theirs was stereo-typically to act as warriors, hunters and scholars
-	- This does not mean that men never worked as farmers, just that the profession was generally feminine
+	- Demeter is a goddess because farming crops was not seen as the duty of men, the women typically tended the crops
 - The Greeks believed that at any moment Demeter could be present at any farm field, as they were her temples
 - Rather than bloody sacrifices (that men tended to enjoy) , Demeter was worshiped by the careful tending to crops
 - Her chief festival was during the harvest
@@ -305,14 +305,15 @@
 			- The event was held in great reverence in both Roman and Greek traditions
 
 **Dionysus**
+- God of wine and vines
 - No one knows clearly when or how Dionysus came to join Demeter at the temple of Eleusis
 - He was considered very close to Demeter in importance
 - He was worshiped alongside Demeter
 - The harvest was also Dionysus' festival, specifically when the grapes from the harvest were brought to the grape press to be made into wine
 
 ### The Story of Demeter
-- Demeter had a single daughter, Persephone
-	- Persephone was maiden of the maiden of the Spring
+- Demeter had a single daughter, Persephone;
+	- Maiden of the maiden of the Spring
 	- Goddess of spring and nature
 	- Wife of Hades, therefore the Queen of the Underworld
 **Abduction of Persephone**
