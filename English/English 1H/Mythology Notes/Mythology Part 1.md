@@ -317,13 +317,18 @@
 	- Maiden of the maiden of the Spring
 	- Goddess of spring and nature
 	- Wife of Hades, therefore the Queen of the Underworld
-**Abduction of Persephone**
+**Abduction of Persephone (Explanation of Seasons)**
 - Demeter had lost Persephone, and in grief withheld her gifts from the earth, causing the Ice age
 - Persephone had been abducted by Hades to the underworld, and her mother heard her cries
 	- Demeter tried to follow Hades and reclaim her daughter, but could not because no one told her the truth about where Persephone was
 	- Demeter wandered for 9 days, looking for Persephone
 	- Eventually, the Sun told her what had happened
 	- Demeter sunk to an even lower depression, and left Olympus, living on Earth among mortals
+	- For one year, Demeter did not have her daughter with her, this was the coldest age for men, and nothing grew in the fields
+	- After this year, Zeus realized that his brother would have to give up Persephone to save mankind
+		- Hades allowed Persephone to leave with Hermes, but not before making her consume a pomegranate seed, which required her to return to him
+		- During the time that Persephone is not in the underworld, the Earth is lush and things grow
+		- While she is in the Underworld, we have winter, and nothing grows
 **Demeter's Life on Earth**
 - She disguised herself so no mortals could distinguish her as a goddess
 - While on Earth, she came to Eleusis and was at a well when 4 maidens approached her
@@ -336,7 +341,7 @@
 			- Thinking that Demeter was trying to burn the child alive, she screamed and in doing so, broke the ritual that Demeter was performing
 			- This caused Demeter to get upset, because she was actually trying to give the child eternal youth and freedom from death
 
-**Dionysus**
+### The Story of Dionysus
 - Dionysus was the only god whose parents were not both gods
 	- His mother was a woman named Semele, a Theban princess
 	- His father was Zeus

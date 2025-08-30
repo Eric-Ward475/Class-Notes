@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mythology Part 1"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "e537787a267af48c",
   "lastOpenFiles": [
+    "README.md",
     "English/English 1H/Mythology Notes/Mythology Part 1.md",
     "English/Guide - English.md",
     "gen. info/cloning the repo.md",
@@ -179,7 +180,6 @@
     "Math/Geometry H/Ch1/Section 1.5.md",
     "Math/Guide - Math.md",
     "English/English 1H/Writing/Pre-Writing Strategies.md",
-    "README.md",
     "Science/Guide - Science.md",
     "Science/Biology H/Unit 1",
     "Science/Biology H",
