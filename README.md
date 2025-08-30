@@ -31,8 +31,34 @@ This is not recommended, because no links within the notes will work. You can st
 - Keep notes up to date and accurate
 
 ### Change log
-**8/22/25** - Created README.md, and updated some existing files
+**8/21/25**:
+- Creation of repo
+- Added initial stuff
 
-**8/23/25** - Fixed some annoying grammar and spelling in some files
+**8/22/25**:
+- Created README.md
+- Updated some existing files
 
-**8/28/25** - Added a lot of math notes and some more mythology
+**8/23/25**:
+- Fixed some annoying grammar and spelling in some files
+- Added tutorials for setting up with Obsidian
+
+**8/24/25**:
+- Fixed some formatting to be consistent
+- Added some mythology and writing notes
+
+**8/26/25**: 
+- Minor changes
+
+**8/28/25**:
+- Added a lot of math notes and some more mythology
+- Adjusted obsidian forces
+
+**8/29/25**:
+- Added mythology up to page 94
+- Added initial biology notes
+- Fixed some formatting
+
+**8/30/25**:
+- Rephrased and fixed some incorrect details in mythology
+- Reformatted the Change Log section of the Readme

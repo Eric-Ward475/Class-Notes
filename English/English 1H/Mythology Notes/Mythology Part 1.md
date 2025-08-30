@@ -11,6 +11,7 @@
 	[[#The Roman Gods]]
 	[[#The 2 Great Gods of Earth]]
 	[[#The Story of Demeter]]
+	[[#How the World and Mankind Were Created]]
 ## The Gods & Titans
 ### Titans
 - The Titans were also called Elder Gods
