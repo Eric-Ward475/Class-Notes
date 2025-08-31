@@ -317,6 +317,7 @@
 	- Maiden of the maiden of the Spring
 	- Goddess of spring and nature
 	- Wife of Hades, therefore the Queen of the Underworld
+
 **Abduction of Persephone (Explanation of Seasons)**
 - Demeter had lost Persephone, and in grief withheld her gifts from the earth, causing the Ice age
 - Persephone had been abducted by Hades to the underworld, and her mother heard her cries
@@ -329,6 +330,7 @@
 		- Hades allowed Persephone to leave with Hermes, but not before making her consume a pomegranate seed, which required her to return to him
 		- During the time that Persephone is not in the underworld, the Earth is lush and things grow
 		- While she is in the Underworld, we have winter, and nothing grows
+
 **Demeter's Life on Earth**
 - She disguised herself so no mortals could distinguish her as a goddess
 - While on Earth, she came to Eleusis and was at a well when 4 maidens approached her
@@ -479,3 +481,13 @@
 	- Prometheus told his son to build a large chest, store provisions and go into it with Deucalion
 	- They were the only survivors of the flood
 	- Zeus was not angered as both survivors were pious, and faithful worshipers of the gods
+
+**The Rebuilding of Mankind**
+- After the flood was drained by Zeus, Deucalion and Pyrrha found a temple, where they prayed for thanks and for rescue
+	- A voice told them "Veil your heads and cast behind you the bones of your mother."
+	- They were afraid, but Deucalion understood;
+		- They took the stones nearby and threw them behind them
+		- The stones were the metaphorical bones of their mother, Earth
+		- The stones took human form and became the final race of humanity, the Stone People
+		- They were strong, and resilient and rescued the earth from the desolation of the flood
+
