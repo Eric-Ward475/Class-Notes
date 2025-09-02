@@ -491,4 +491,4 @@
 		- The stones took human form and became the final race of humanity, the Stone People
 		- They were strong, and resilient and rescued the earth from the desolation of the flood
 
-**Earth Created 3 things in total, 50 headed beings, more similar to forces shaping the earth, The Titans, and Typhon
+**Earth Created 3 things in total, 50 headed beings, more similar to forces shaping the earth, The Titans, and Typhon**
