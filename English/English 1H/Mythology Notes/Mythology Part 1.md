@@ -10,7 +10,9 @@
 		[[#The Lesser Gods of Earth]]
 	[[#The Roman Gods]]
 	[[#The 2 Great Gods of Earth]]
+[[#Foundational Stories of Mythology]]
 	[[#The Story of Demeter]]
+	[[#The Story of Dionysus]]
 	[[#How the World and Mankind Were Created]]
 ## The Gods & Titans
 ### Titans
@@ -312,6 +314,7 @@
 - He was worshiped alongside Demeter
 - The harvest was also Dionysus' festival, specifically when the grapes from the harvest were brought to the grape press to be made into wine
 
+## Foundational Stories of Mythology
 ### The Story of Demeter
 - Demeter had a single daughter, Persephone;
 	- Maiden of the maiden of the Spring

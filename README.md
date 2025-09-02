@@ -20,6 +20,8 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 - Open the folder as a vault in Obsidian
 	- Click 'Open folder as vault' and select either the cloned repo's folder or where you extracted the .zip
 - Done!
+- If you used GH Desktop, make sure to update the locally stored files every time you use them, as they are updated almost every day, sometimes multiple times per day
+- If you used any manual methods, be sure to redownload, if something you need is online but not on your computer
 
 ### Option 2 (Less tech required)
 This is not recommended, because no links within the notes will work. You can still use them, but some benefits may be lost.
@@ -62,3 +64,11 @@ This is not recommended, because no links within the notes will work. You can st
 **8/30/25**:
 - Rephrased and fixed some incorrect details in mythology
 - Reformatted the Change Log section of the Readme
+
+**8/31/25**:
+- Fixed minor formatting
+- Update the Readme
+
+**9/02/25**:
+- Added minor notes
+- Fixed some formatting
