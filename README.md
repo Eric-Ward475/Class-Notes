@@ -9,7 +9,7 @@ Any review questions that are graded will not be posted until after the due date
 ### Setup
 ***There are 2 options for set up***
 
-#### Option 1 (Recommended)
+### Option 1 (Recommended)
 It is recommended to use Obsidian to view the notes. There are links in many files, and helps to organize things a little better. 
 
 - To install Obsidian, go to https://obsidian.md/download and follow their download instructions
