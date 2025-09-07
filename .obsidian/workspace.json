@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "6b8fed24f7490b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English 1H/Mythology Notes/Mythology Part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mythology Part 2"
+            }
+          },
+          {
+            "id": "544bc9774950b108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mythology Part 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e3e107b87590e77",
@@ -169,9 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e537787a267af48c",
+  "active": "6b8fed24f7490b73",
   "lastOpenFiles": [
     "English/English 1H/Mythology Notes/Mythology Part 1.md",
+    "English/English 1H/Mythology Notes/Mythology Part 2.md",
+    "English/English 1H/Mythology Notes/Mythology Part 2",
     "README.md",
     "English/Guide - English.md",
     "gen. info/cloning the repo.md",

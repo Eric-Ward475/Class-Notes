@@ -14,6 +14,7 @@
 	[[#The Story of Demeter]]
 	[[#The Story of Dionysus]]
 	[[#How the World and Mankind Were Created]]
+[[#Flower-Myths Narcissus, Hyacinth, Adonis]]
 ## The Gods & Titans
 ### Titans
 - The Titans were also called Elder Gods
@@ -495,3 +496,24 @@
 		- They were strong, and resilient and rescued the earth from the desolation of the flood
 
 **Earth Created 3 things in total, 50 headed beings, more similar to forces shaping the earth, The Titans, and Typhon**
+
+### Flower-Myths: Narcissus, Hyacinth, Adonis
+- Greece has 'most lovely wild flowers', this is significant because Greece does not appear to be a place for flowers; It is a land of 'stony hills and rugged mountains'
+- The stories of the Narcissus, Hyacinthus and Adonis emphasize themes of beauty, love and things that are transient (do not last for a long time)
+- These flowers symbolize loss, grief and the nature of life and death
+-  Ancient Greeks linked the blooms to mythology
+- Flowers were believed to be created by the gods, with some seeming to be intended for a higher purpose
+**Narcissus**
+- In the story of Persephone, she discovered it in a meadow before being abducted by Hades
+- In another story, a beautiful young man, named Narcissus, was cursed to fall in love with himself and after death became the flower
+**Hyacinthus**
+- A youth who was loved by Apollo, who was killed by a discus throw (or in some variations, intentionally, by the jealous West Wind)
+- From his blood, blooms the hyacinth
+**Adonis**
+- Loved by Aphrodite and Persephone, and killed by a boar
+- He was mourned deeply by Aphrodite
+- Zeus divided his time evenly between Persephone and Aphrodite
+- He spent the summer with Aphrodite and the winter with Persephone
+- From his blood came the crimson anemone
+
+Continued on [[Mythology Part 2]]
