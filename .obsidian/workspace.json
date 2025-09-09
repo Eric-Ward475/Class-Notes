@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "Mythology Part 2"
             }
-          },
-          {
-            "id": "544bc9774950b108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/English 1H/Mythology Notes/Mythology Part 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mythology Part 1"
-            }
           }
         ],
         "currentTab": 1
@@ -201,6 +187,7 @@
   },
   "active": "6b8fed24f7490b73",
   "lastOpenFiles": [
+    "English/English 1H/Writing/Common errors in writing.md",
     "English/English 1H/Mythology Notes/Mythology Part 1.md",
     "English/English 1H/Mythology Notes/Mythology Part 2.md",
     "English/English 1H/Mythology Notes/Mythology Part 2",
