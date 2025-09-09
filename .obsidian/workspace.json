@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8e3e107b87590e77",
@@ -185,11 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b8fed24f7490b73",
+  "active": "32669bdd457da804",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.md",
+    "English/English 1H/Mythology Notes/Mythology Part 2.md",
     "English/English 1H/Writing/Common errors in writing.md",
     "English/English 1H/Mythology Notes/Mythology Part 1.md",
-    "English/English 1H/Mythology Notes/Mythology Part 2.md",
     "English/English 1H/Mythology Notes/Mythology Part 2",
     "README.md",
     "English/Guide - English.md",
