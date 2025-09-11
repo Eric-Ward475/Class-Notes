@@ -30,3 +30,43 @@
 - Orpheus, son of a Muse and a Thracian prince, was the greatest of mortal musicians. His song could tame wild beasts, move rivers, and even soften stones
 - He sailed with Jason and the Argonauts, using his music to hearten the crew, prevent quarrels, and drown out the Sirens’ deadly voices
 - Later, he loved and married Eurydice, though the story of their first meeting is not told
+
+**Ceyx and Alcyone**
+- Ceyx
+	- A king in Thessaly
+	- Son of Lucifer (the light-bearer)
+	- His wife was Alcyone, daughter of Aeulus, who was king of the winds
+- The pair loved each other intensely
+- Ceyx though that he mus leave her and make a long journey over the sea
+- Ceyx was killed in a hurricane at sea, but was not fearful of his death, because he knew that his wife was safe
+- Alcyone was waiting for him, weaving a robe for him to give to him upon his return
+- Alcyone prayed to Hera for Ceyx's safety, Hera heard these prayers and ordered Somnus, the gof of sleep and told him to send a dream to Alcyone, telling her the truth about Ceyx
+
+**Pygmalion and Galatea**
+- Pygmalion was a woman hater and a talented sculptor
+- He wanted to marry his art
+- Despite this, his masterpiece was a sculpture of a woman, described as being perfect
+- He was never satisfied with how it turned out and worked on it every day, constantly making it more beautiful than any human woman or any other sculpture
+- After he could perfect it no more, he had fallen deeply in love with his creation
+
+**Baucis and Philemon**
+
+**Endymion**
+- He was a youth of incredible beauty
+- In all stories, he sleeps forever; immortal but never conscious
+- At night, the Moon visits him and covers him with kisses
+
+**Daphne**
+- Said to be Apollo's first love
+- She fled from him
+- Her father was the river-god, Peneus
+- She was transformed into a tree, while trying to flee Apollo
+
+**Alpheus and Arethus**
+- Arethus was a follower of Artemis
+- She would have nothing to do with men
+- She was bathing in a pristine lake, when Alpheus, a river god approached her and chased her through the forest saying that he was only chasing her because he loved her
+- Artemis turned her to a fountain, allowing her to escape in a tunnel, but Alpheus followed her
+
+### The Quest of the Golden Fleece
+
