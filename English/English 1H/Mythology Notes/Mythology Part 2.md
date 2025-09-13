@@ -70,3 +70,50 @@
 
 ### The Quest of the Golden Fleece
 
+- Jason was the first great European hero, living a generation before Odysseus
+- The quest was a sea adventure, unlike later quests which were mostly by land
+
+**Background**
+- King Athamas abandoned his first wife, Nephele, for Ino, who plotted against Nephele’s children
+- Ino parched the seed-corn before planting, causing famine, and bribed the oracle to demand the boy, Phrixus, be sacrificed
+- As he was about to be killed, a golden ram (sent by Hermes) carried Phrixus and his sister Helle away
+- Helle fell into the sea (the Hellespont, “Helle’s sea”) and died
+- Phrixus reached Colchis, where he sacrificed the ram to Zeus and gave its fleece to King Aeëtes
+- Phrixus’ cousin, Pelias, seized the throne of Iolcus in Greece, driving out Jason’s father
+
+**Jason and Pelias**
+- Jason returned to claim the throne
+- Pelias agreed to give it up if Jason brought back the Golden Fleece from Colchis
+
+**The Argonauts**
+- Jason gathered a crew of heroes: Hercules, Orpheus, Castor and Pollux, Peleus (Achilles’ father), Atalanta (in some accounts), and others
+- They sailed on the ship _Argo_
+
+**Adventures on the Voyage**
+- **Lemnos**: island where women (having killed all the men) welcomed the Argonauts
+- **Harpies**: bird-women who plagued the blind prophet Phineus by fouling his food; the Boreads (sons of the North Wind) drove them off
+- **Symplegades (Clashing Rocks)**: smashed ships; the Argonauts tested with a dove, and after it passed through safely, they rowed through and the rocks ceased moving forever
+
+**Arrival in Colchis**
+- King Aeëtes demanded Jason perform impossible tasks to earn the fleece:
+    - Yoke two fire-breathing bulls
+    - Plow a field and sow it with dragon’s teeth (which sprouted into armed warriors)
+- Medea, Aeëtes’ daughter (a sorceress, struck by love for Jason by Hera and Aphrodite’s plan), helped him:
+    - Gave him ointment to protect against fire and steel
+    - Warned him to throw a stone among the dragon-teeth men, making them fight each other instead of him
+
+**The Theft of the Fleece**
+- Medea lulled the serpent guarding the fleece to sleep with her magic, allowing Jason to seize it
+- She fled with Jason, killing her brother Apsyrtus (in some versions scattering his body so Aeëtes had to stop and gather the pieces)
+
+**Return Journey**
+- Medea’s magic saved them again:
+    - On the way home, the Argonauts stopped in Phaeacia, where Medea was sheltered from her father        
+    - Later, Medea killed Pelias by tricking his daughters: she cut up an old ram, boiled it, and produced a young lamb; the daughters tried the same with Pelias, but he did not return to life
+
+**Jason and Medea**
+- Jason abandoned Medea for the princess of Corinth
+- Medea’s revenge:
+    - Sent the bride a robe anointed with deadly poison, which burned her to death
+    - Killed her own children with Jason
+    - Escaped in a dragon-drawn chariot, leaving Jason to live in misery

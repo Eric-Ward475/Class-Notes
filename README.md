@@ -83,5 +83,6 @@ This is not recommended, because no links within the notes will work. You can st
 **9/10/25**:
 - RIP Charlie Kirk (October 14, 1993 - September 10, 2025)
 
-**9/11/25**:
-- 
+**9/13/25**:
+- Added Quest for the Golden Fleece notes to mythology
+- Quiz on monday
