@@ -37,19 +37,27 @@
 	- Son of Lucifer (the light-bearer)
 	- His wife was Alcyone, daughter of Aeulus, who was king of the winds
 - The pair loved each other intensely
-- Ceyx though that he mus leave her and make a long journey over the sea
-- Ceyx was killed in a hurricane at sea, but was not fearful of his death, because he knew that his wife was safe
-- Alcyone was waiting for him, weaving a robe for him to give to him upon his return
-- Alcyone prayed to Hera for Ceyx's safety, Hera heard these prayers and ordered Somnus, the gof of sleep and told him to send a dream to Alcyone, telling her the truth about Ceyx
+- Ceyx went on a journey through the sea
+- Ceyx was killed in a hurricane, but was not fearful of his death, because he knew that Alcyone was safe
+- Alcyone was waiting for him, weaving a robe for him to give to him, and one for herself to be wearing when he returned
+- Alcyone prayed to Hera for Ceyx's safety, Hera heard these prayers and ordered Somnus, the god of sleep and told him to send a dream to Alcyone, telling her the truth about Ceyx
+- Somnus told his son, Morpheus, who has the ability to turn himself to look like any human being to go and deliver the news to Alcyone
+- When Alcyone heard the new, she went to sea to search for Ceyx, and found his body floating in the waves
+- The gods had mercy on them and changed them both into birds, allowing them to remain with each other forever
 
 **Pygmalion and Galatea**
 - Pygmalion was a woman hater and a talented sculptor
-- He wanted to marry his art
 - Despite this, his masterpiece was a sculpture of a woman, described as being perfect
 - He was never satisfied with how it turned out and worked on it every day, constantly making it more beautiful than any human woman or any other sculpture
-- After he could perfect it no more, he had fallen deeply in love with his creation
+- After he could perfect it no more, he had fallen deeply in love with his creation, wanting to marry it
 
 **Baucis and Philemon**
+- Jupiter and Mercury disguised themselves as poor travelers on Earth
+	- They decided to test the hospitality of mortals, and were turned away door after door, until one elderly couple (Baucis and Philemon) allowed them in
+	- Baucis and Philemon were very poor, but still offered what they had
+- While tending to the gods, Baucis and Philemon noticed that the bowl of wine was always completely full, which was a sign that their guests were divine
+- They realized this and offered to slaughter their only goose to give to them, but were unable to capture the goose
+- Jupiter and Mercury were impressed by their kindness, and rewarded the couple by flooding the harsh countryside, sparing only the couple, and transforming their house into a great temple
 
 **Endymion**
 - He was a youth of incredible beauty
@@ -58,9 +66,10 @@
 
 **Daphne**
 - Said to be Apollo's first love
+	- Apollo fell in love with Daphne because Cupid shot him with his magic arrow
 - She fled from him
 - Her father was the river-god, Peneus
-- She was transformed into a tree, while trying to flee Apollo
+- She was transformed into a tree, while trying to flee Apollo by Peneus
 
 **Alpheus and Arethus**
 - Arethus was a follower of Artemis
@@ -70,50 +79,50 @@
 
 ### The Quest of the Golden Fleece
 
-- Jason was the first great European hero, living a generation before Odysseus
-- The quest was a sea adventure, unlike later quests which were mostly by land
-
 **Background**
-- King Athamas abandoned his first wife, Nephele, for Ino, who plotted against Nephele’s children
-- Ino parched the seed-corn before planting, causing famine, and bribed the oracle to demand the boy, Phrixus, be sacrificed
-- As he was about to be killed, a golden ram (sent by Hermes) carried Phrixus and his sister Helle away
-- Helle fell into the sea (the Hellespont, “Helle’s sea”) and died
-- Phrixus reached Colchis, where he sacrificed the ram to Zeus and gave its fleece to King Aeëtes
-- Phrixus’ cousin, Pelias, seized the throne of Iolcus in Greece, driving out Jason’s father
+- The first great voyage in Europe was the Quest of the Golden Fleece, led by Jason
+- Jason, and the heroes that he led were called the Argonauts
+- The Argonauts braved the sea and land to take back the fleece from Colchis
 
-**Jason and Pelias**
-- Jason returned to claim the throne
-- Pelias agreed to give it up if Jason brought back the Golden Fleece from Colchis
+**Pre-Voyage**
+- The story begins when Phrixus was saved by the sacrifice of a golden ram
+- Phrixus flew with his sister Helle across the sea
+	- Helle fell into water
+	- Phrixus reached Colchis and gave the fleece from the sacrificed ram to King Aeetes
+	- In return, Aeetes allowed Phrixus to marry one of his daughters
+- Years later, the rightful heir to the throne, Jason came to claim his kingdom, after being safely hidden for years
+	- Jason's uncle Pelias stole Jason's throne
+- Aeetes hid the fleece in a sacred grove, guarded by a dragon/serpent, in an area called Colchis
+- Pelias had been warned by the Oracle to beware of the man with one sandle, who was later identified as Jason
+	- He sent Jason on a quest he thought to be impossible; retrieve the fleece from where Aeetes had put it
 
-**The Argonauts**
-- Jason gathered a crew of heroes: Hercules, Orpheus, Castor and Pollux, Peleus (Achilles’ father), Atalanta (in some accounts), and others
-- They sailed on the ship _Argo_
-
-**Adventures on the Voyage**
-- **Lemnos**: island where women (having killed all the men) welcomed the Argonauts
-- **Harpies**: bird-women who plagued the blind prophet Phineus by fouling his food; the Boreads (sons of the North Wind) drove them off
-- **Symplegades (Clashing Rocks)**: smashed ships; the Argonauts tested with a dove, and after it passed through safely, they rowed through and the rocks ceased moving forever
+**The Voyage**
+- Jason gathered Greece's greatest heroes to go on the quest with him
+	- Hercules
+	- Orpheus
+	- Castor
+	- Pollux
+- Together, they boarded the ship Argo
+- Dangers they faced include:
+	- The women of Lemnos (Killed their men)
+	- The loss of Hercules (Abandoned the quest)
+	- The Harpies (Tormented Philenus, until the sons of Boreas drove them off)
+	- A glimpse of Prometheus chaned
+	- Talus (The bronze giant of Crete, destroyed by Medea)
 
 **Arrival in Colchis**
-- King Aeëtes demanded Jason perform impossible tasks to earn the fleece:
-    - Yoke two fire-breathing bulls
-    - Plow a field and sow it with dragon’s teeth (which sprouted into armed warriors)
-- Medea, Aeëtes’ daughter (a sorceress, struck by love for Jason by Hera and Aphrodite’s plan), helped him:
-    - Gave him ointment to protect against fire and steel
-    - Warned him to throw a stone among the dragon-teeth men, making them fight each other instead of him
+- Upon arrival, King Aeetes challenged Jason to
+	- Yoke fire breathing bulls
+	- Sow dragon's teeth
+	- Defeat the warriors who sprang up from the dragon's teeth
 
-**The Theft of the Fleece**
-- Medea lulled the serpent guarding the fleece to sleep with her magic, allowing Jason to seize it
-- She fled with Jason, killing her brother Apsyrtus (in some versions scattering his body so Aeëtes had to stop and gather the pieces)
-
-**Return Journey**
-- Medea’s magic saved them again:
-    - On the way home, the Argonauts stopped in Phaeacia, where Medea was sheltered from her father        
-    - Later, Medea killed Pelias by tricking his daughters: she cut up an old ram, boiled it, and produced a young lamb; the daughters tried the same with Pelias, but he did not return to life
-
-**Jason and Medea**
-- Jason abandoned Medea for the princess of Corinth
-- Medea’s revenge:
-    - Sent the bride a robe anointed with deadly poison, which burned her to death
-    - Killed her own children with Jason
-    - Escaped in a dragon-drawn chariot, leaving Jason to live in misery
+- Medea, Aeetes' daughter was struck by Cupid's arrow, and betrayed her father, helping Jason
+	- She gave Jason a magic ointment, that when applied to the body, protected the user for that day (Effectively invincible for the day)
+	- The plant used to make it sprang from Prometheus' blood
+	- Medea had magical abilities
+	- Medea accompanied Jason on the Journey
+- Without Medea, the quest would have been impossible otherwise
+- Although Medea was utterly obsessed with Jason, he was planning to marry another woman, and betrayed her
+	- Medea and Jason did have children together
+	- Medea took revenge for Jason not wanting to marry her by murdering their children and the woman Jason wanted to marry
+- After returning to Greece, Jason found his parents dead, because Medea tricked Pelias' daughters into killing them
