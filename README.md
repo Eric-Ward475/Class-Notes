@@ -90,3 +90,5 @@ This is not recommended, because no links within the notes will work. You can st
 **9/14/25**:
 - Remade mythology notes (Quiz tomorrow)
 
+**9/15/25**:
+- Brought Geometry notes up to date, with all of section 1, and the beginning of section 2
