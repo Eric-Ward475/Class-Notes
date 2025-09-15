@@ -10,3 +10,6 @@
 **Angle Bisectors & Trisectors**
 - Bisected by rays that divide the angle measure into 2 congruent measures
 - Trisected by 2 rays that divide the angle measure into 3 congruent measures
+
+Continue:
+[[Math/Geometry H/Ch1/Section 1.6]]
