@@ -93,3 +93,7 @@ This is not recommended, because no links within the notes will work. You can st
 **9/15/25**:
 - Brought Geometry notes up to date, with all of section 1, and the beginning of section 2
 - Added Word Unit notes to intro to Tech
+
+**9/16/25**:
+- Added the rest of the writing unit notes
+- Section 2.2 for Geometry H

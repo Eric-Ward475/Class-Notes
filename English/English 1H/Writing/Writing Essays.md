@@ -1,4 +1,3 @@
-### Pt 1
 
 **Introduction**
 - The first paragraph of an essay, containing the thesis/claim
@@ -101,3 +100,35 @@
 		- CM
 		- CS
 	- Conclusion paragraph
+
+**Structure of the Introduction**
+- Starts with a theme from the story
+	- Often, longer stories have multiple themes
+	- The theme is a universal concept, not necessarily directly tied to the story
+	- The theme tells a central idea of the text, without making any plot references
+- Sentence 2 expands on the opening sentence, giving thoughts about it
+	- All CM
+- Sentence 3 further expands on the theme, maybe connecting to the literature, but not making direct plot references
+- Sentence 4 leads into the thesis
+- Sentence 5 is the thesis
+	- Begins with 'In.. (Text name), by (Author name)'
+	- Only part of the introduction with a direct link to the literature being analyzed
+- The introduction is almost always at least 5 sentences
+- Should be written last, after body paragraphs
+	- To accurately and elegantly blend your introduction together, all parts must be somewhat related to the rest of the essay
+	- However, the thesis is still needed to write the body paragraphs and conclusion
+
+**Body Paragraphs**
+- Composed of chunks:
+	- Topic sentence
+	- Concrete detail
+	- Commentary(s)
+- Each of these are discussed above
+
+**Concluding paragraph**
+- Has 4 requirements
+	- First sentence restates the these, but in totally different words
+	- All commentary (no CD)
+	- Does not repeat key words from anywhere in the essay
+	- Must give a finished feeling to the essay
+- Sums up the essay; a wrap up

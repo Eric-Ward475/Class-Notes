@@ -10,3 +10,6 @@
 - Each point is represented by an ordered pair, in the form (x, y)
 - The values of x and y are called the point's coordinates
 - The intersection of the axes is called the origin
+
+Continue:
+[[Math/Geometry H/ Ch2/Section 2.2]]

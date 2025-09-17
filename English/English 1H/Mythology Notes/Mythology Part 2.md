@@ -1,5 +1,6 @@
 ### Index
 [[#Stories of Love and Adventure]]
+[[#The Quest of the Golden Fleece]]
 
 ### Stories of Love and Adventure
 
