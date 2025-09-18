@@ -1,5 +1,5 @@
 These are all of my class notes, digitized and hosted on GitHub.
-Direct answers to tests, quizzes and ongoing assignments will not be included here, and tests will be under no circumstances included, as per the Providence Catholic Academic Integrity Code
+Direct answers to tests, quizzes and ongoing assignments will not be included here, and tests will be under no circumstances included, as per the Providence Catholic Academic Integrity Code.
 This repo is intended to help other who may be taking the same classes as I am right now in the future, as well as those currently in those classes.
 
 By using these notes, you are agreeing not to use them to cheat, only to study or use as reference. In addition, I will not be liable for any cheating.
@@ -34,6 +34,7 @@ This is not recommended, because no links within the notes will work. You can st
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
 - Keep notes up to date and accurate
+- Add notes for classes I am not in (Relies on other people sending notes to upload, or me independently taking the course)
 
 ### Upcoming additions
 - English 1H Mythology pgs 181-223
