@@ -31,6 +31,28 @@ This is not recommended, because no links within the notes will work. You can st
 
 ##### ***NOTE: THIS IS UPDATED ALMOST DAILY, YOU NEED TO REFRESH THE CLONED REPO REGULARLY***
 ---
+### Filesize
+- Currently, this repository is mainly markdown, with only a couple images in the guide section
+- The bulk of the repo's data is in the .git folder, containing version control data and the lower level git information
+- At the time of commit, this repo totals 94 megabytes
+	- 86M of which are .git files
+	- 512K of which are images
+	- 768K of which are .obsidian files
+	- 7M of which are hand typed notes, or about 7,000,000 manually typed characters
+
+### Supporting/Contributing
+- All contributors get a cut of any monetary proceeds, based on how much they contribute
+- You can contribute by:
+	- Reporting any issues with the notes (typos, error, etc) to me at any of my contacts that can be found on my GitHub home page, or through GitHub Issues
+	- Helping add to the notes by sending in your personal notes, or even typing them in the same format as I do
+		- I will add them to the repo, and credit you for your submission
+		- I ask that submissions are sent directly to me, to avoid conflict
+		- All notes must be typed in valid markdown format, and no AI can be used, to preserve legitimacy
+	- Suggesting features, topics or anything else to me directly
+- You can support by:
+	- Informing others of the repository
+	- Small donations (I legitimately do not want your money, most of any proceeds would go directly to other contributors
+
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
 - Keep notes up to date and accurate
@@ -113,3 +135,4 @@ This is not recommended, because no links within the notes will work. You can st
 - Update README.md (added [[#Upcoming additions]])
 - Added Writing chunks (English 1H)
 - Some other English 1H notes (**NOT FINISHED, WILL BE FINISHED TOMORROW**)
+- Added Contributing/Supporting section to README.md
