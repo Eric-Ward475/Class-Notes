@@ -49,7 +49,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "32669bdd457da804",
+  "active": "10b170342cc082d2",
   "lastOpenFiles": [
+    "English/English 1H/Writing + Grammar/Writing Essays.md",
     "English/English 1H/Writing + Grammar/Pre-Writing Strategies.md",
     "English/Guide - English.md",
     "English/English 1H/Literature Book/Fiction (Type of writing).md",
@@ -207,7 +209,6 @@
     "English/English 1H/Literature Book/The Gift of the Magi.md",
     "English/English 1H/Mythology Notes/Mythology Part 2.md",
     "English/English 1H/Literature Book",
-    "English/English 1H/Writing + Grammar/Writing Essays.md",
     "Math/Geometry H/ Ch2/Section 2.2.md",
     "Math/Geometry H/Ch2/Section 2.1.md",
     "Math/Geometry H/ Ch2",

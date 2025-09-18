@@ -111,3 +111,5 @@ This is not recommended, because no links within the notes will work. You can st
 
 **9/17/25**:
 - Update README.md (added [[#Upcoming additions]])
+- Added Writing chunks (English 1H)
+- Some other English 1H notes (**NOT FINISHED, WILL BE FINISHED TOMORROW**)
