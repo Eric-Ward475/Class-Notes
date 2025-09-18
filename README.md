@@ -6,6 +6,7 @@ By using these notes, you are agreeing not to use them to cheat, only to study o
 
 Any review questions that are graded will not be posted until after the due date.
 
+---
 ### Setup
 ***There are 2 options for set up***
 
@@ -28,10 +29,18 @@ This is not recommended, because no links within the notes will work. You can st
 
 - Navigate through the folders within GitHub's website
 
+##### ***NOTE: THIS IS UPDATED ALMOST DAILY, YOU NEED TO REFRESH THE CLONED REPO REGULARLY***
+---
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
 - Keep notes up to date and accurate
 
+### Upcoming additions
+- English 1H Mythology pgs 181-223
+- English 1H The gift of the magi notes
+- English 1H Pronoun Antecedents
+- Geometry H 2.2 day 2
+- Biology H Properties of water
 ### Change log
 **8/21/25**:
 - Creation of repo
@@ -97,3 +106,6 @@ This is not recommended, because no links within the notes will work. You can st
 **9/16/25**:
 - Added the rest of the writing unit notes
 - Section 2.2 for Geometry H
+
+**9/17/25**:
+- Update README.md (added [[#Upcoming additions]])
