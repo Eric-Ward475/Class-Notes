@@ -127,3 +127,15 @@
 	- Medea and Jason did have children together
 	- Medea took revenge for Jason not wanting to marry her by murdering their children and the woman Jason wanted to marry
 - After returning to Greece, Jason found his parents dead, because Medea tricked Pelias' daughters into killing them
+
+### Four Great Adventures
+
+**Phaethon**
+- He was a youth who was son of the Sun god, Helios
+- Wanted to prove his lineage by meeting his father and completing a quest
+- His father affirmed what his mother had said and offered him anything that he wanted, swearing this on the Styx (unbreakable vow)
+- Phaethon wished to take the job of his father for a day; to drive the sun-car through a day
+- His father had no choice but to allow him to take the job
+- He lost control of the horses pulling the car, causing the sun to burn the earth, starting fires and scorching everything
+- Mother Earth cried out to the gods, and they struck him down, out of the sky
+- Phaethon fell to the river Eridanus
