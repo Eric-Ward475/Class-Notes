@@ -136,3 +136,6 @@ This is not recommended, because no links within the notes will work. You can st
 - Added Writing chunks (English 1H)
 - Some other English 1H notes (**NOT FINISHED, WILL BE FINISHED TOMORROW**)
 - Added Contributing/Supporting section to README.md
+
+**9/19/25**:
+- Added rest of Mythology pt 2 notes

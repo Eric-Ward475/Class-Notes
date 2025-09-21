@@ -1,6 +1,10 @@
 ### Index
 [[#Stories of Love and Adventure]]
 [[#The Quest of the Golden Fleece]]
+[[#Phaethon]]
+[[#Pegasus and Bellerophon]]
+[[#Otus and Ephialtes]]
+[[#Daedalus]]
 
 ### Stories of Love and Adventure
 
@@ -128,14 +132,116 @@
 	- Medea took revenge for Jason not wanting to marry her by murdering their children and the woman Jason wanted to marry
 - After returning to Greece, Jason found his parents dead, because Medea tricked Pelias' daughters into killing them
 
-### Four Great Adventures
-
-**Phaethon**
+### Phaethon
 - He was a youth who was son of the Sun god, Helios
 - Wanted to prove his lineage by meeting his father and completing a quest
 - His father affirmed what his mother had said and offered him anything that he wanted, swearing this on the Styx (unbreakable vow)
 - Phaethon wished to take the job of his father for a day; to drive the sun-car through a day
-- His father had no choice but to allow him to take the job
+- His father had no choice but to allow him to take the job, although he tried his best to talk him out of it
 - He lost control of the horses pulling the car, causing the sun to burn the earth, starting fires and scorching everything
-- Mother Earth cried out to the gods, and they struck him down, out of the sky
-- Phaethon fell to the river Eridanus
+- Mother Earth cried out to the gods, and Zeus struck him down, out of the sky
+- Phaethon fell to the river Eridanus, where his sisters came to mourn him, and were changed to poplar trees as they mourned
+
+### Pegasus and Bellerophon
+
+**Origins/background**
+- Bellerophon's birth is mysterious
+	- Sometimes he is told as the son of Glaucus (king of Corinth, son of Sisyphus)
+	- Other times, he is told to be son of Poseidon himself (and a mortal woman)
+- He wished more than anything to possess Pegasus, the mythical horse that sprung from the blood of Medusa
+	- Pegasus was a winged horse
+	- He roamed free, impossible for any man to capture
+- One night, Athena appeared to Bellerophon in a dream
+	- She game him a golden bridle (the headgear used to control a horse), that was enchanted to use on Pegasus
+	- When he awoke, the bridle was actually in his hand, rather than just in his dreams
+- Bellerophon tamed Pegasus with the bridle with ease
+
+**Exile & Trials**
+- Bellerophon killed either his brother of a guest accidentally (sources differ)
+- To be purified (absolved of his sins), he went to King Proetus of Argos
+	- Proetus' wife, Anteia fell in love with him
+	- Bellerophon rejected her, and she then accused him of trying to seduce (rape) her
+	- Proetus didn't want to kill him, so he sent him to the King of Lycia, with a letter, asking him to kill him instead
+- The Lycian king also did not want to kill him directle, so he forced Bellerophon to endure 3 tasks, meant to kill him
+	- These were called 'Trials'
+	- First (The Chimera)
+		- A fire breathing monster (lion in front, goat in middle, serpent behind)
+		- With Pegasus' flight, Bellerophon flew above the Chimera, and shot it with arrows, killing it safely
+	- Second (The Solymi)
+		- A fierve warrior tribe
+		- Similarly to the Chimera, Pegasus' flight allowed Bellerophon to win the fight
+	- Third (The Amazons)
+		- Legendary warrior women (killed their own men, as told in The Quest of the Golden Fleece)
+		- Bellerophon fought them and triumphed, in the same way as the other trials
+	- After the trials:
+		- The king realized the gods favored Bellerophon, allowed him his daughter in marriage
+		- This gave him half of his kingdom
+
+**Downfall**
+- Bellerophon thought he was better than he was, and this factor lead to his downfall
+- He thought he deserved to live with the gods
+	- He tried to fly Pegasus up to Olympus
+	- Zeus struck him down
+	- He fell to Earth, leaving Pegasus to Olympus, where he served Zeus
+- Bellerophon wandered the earth, hated by the gods, until he died in misery
+
+### Otus and Ephialtes
+
+**Background**
+- Twin brothers (sons of Poseidon)
+- Sometimes said to be sons of Aloadae
+- They were extremely tall and strong
+- Handsome and youthful
+- Arrogant and reckless, causing them to be in conflict with the gods
+
+**Imprisonment of Ares**
+- The once trapped Ares in a bronze jar for 13 months
+	- Ares would have died, if Hermes had not saved him
+
+**Plot against Olympus**
+- They became arrogant and boasted that one day they would take over Olympus itself
+- They were going to build a 'stairway to heaven' out of mountains
+- They never carried out their threats, but regardless, the gods were angered by them
+
+**Obsession with Love**
+- The brothers turned their focus towards love (specifically with goddesses)
+- Otus wanted Artemis
+- Ephialtes desired Hera
+
+**Death**
+- Their lust for the goddesses guaranteed their death
+- Artemis devised a trap to kill them
+- She appeared to them and lured them through a forest
+- She vanished, and in desperation the brothers threw spears at her, but missed and struck each other
+- They both fell dead, killed by their own hubris (pride)
+
+### Daedalus
+
+**Background**
+- He was an Athenian inventor, architect and craftsman, well known in Greece
+- His most significant creation was this Labyrinth in Crete
+	- It was a maze designed so that no one inside could ever find the way out, without help
+	- King Minos (Crete) ordered the Labyrinth to be built to hold the Minotaur
+		- The Minotaur was a half-man, half-bull monster conceived by Minos' wife and a bull
+		- Theseus killed the Minotaur (inside the maze)
+	- Daedalus helped one of Theseus' companions find the way out
+	- Minos realized that only Daedalus could have helped them find the way out, so he imprisoned him
+
+**Escape from prison**
+- Daedalus was imprisoned with his son, Icarus
+- They were locked inside the Labyrinth
+- Daedalus had a plan for escape
+	- He crafted two pairs of wings out of feathers and wax
+	- He warned Icarus not to fly too high, or the sun's heat would melt the wax and not to fly too low, or the sea's spray would weight the wings down
+- Icarus recklessly went up to the sun, the wax on his wings melted and drowned in the sea below
+- Daedalus survived and reached Sicily
+
+**Post-escape**
+- Daedalus found refuge with King Cocalus
+- King Minos pursued him relentlessly
+- Unable to find him, Minos devised a test to find him
+	- He offered a great reward to anyone who could pass a thread through a conch shell
+	- Daedalus solved this by attaching a thread to an ant and guiding it through the shell
+	- Minos knew that only Daedalus could solve the puzzle
+- Minos traveled to Sicily to seize him
+- King Cocalus' daughters tricked and killed Minos, allowing Daedalus to escape punishment again

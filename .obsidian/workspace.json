@@ -49,7 +49,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,12 +199,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "95ed49925fd88b95",
+  "active": "10b170342cc082d2",
   "lastOpenFiles": [
-    "README.md",
     "English/English 1H/Mythology Notes/Mythology Part 2.md",
-    "English/English 1H/Writing + Grammar/Writing Essays.md",
+    "README.md",
     "English/English 1H/Literature Book/Fiction (Type of writing).md",
+    "English/English 1H/Writing + Grammar/Writing Essays.md",
     "English/English 1H/Writing + Grammar/Pre-Writing Strategies.md",
     "English/Guide - English.md",
     "English/English 1H/Writing + Grammar/Antecedents (Pronouns).md",
