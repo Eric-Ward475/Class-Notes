@@ -245,3 +245,5 @@
 	- Minos knew that only Daedalus could solve the puzzle
 - Minos traveled to Sicily to seize him
 - King Cocalus' daughters tricked and killed Minos, allowing Daedalus to escape punishment again
+
+Continued on [[Mythology Part 3]]
