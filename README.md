@@ -63,7 +63,8 @@ This is not recommended, because no links within the notes will work. You can st
 - English 1H The gift of the magi notes
 - English 1H Pronoun Antecedents
 - English 1H Fiction
-- Geometry H 2.2 day 2
+- English 1H Short stories
+- Geometry H Up-to-date
 - Biology H Properties of water
 ### Change log
 **8/21/25**:
@@ -139,3 +140,10 @@ This is not recommended, because no links within the notes will work. You can st
 
 **9/21/25**:
 - Added rest of Mythology pt 2 notes
+
+**9/22/25**:
+- Some more mythology
+
+**9/26/25**:
+- Lots of Geometry H (section 2.2-2.7)
+- Some short stories notes (English 1H)

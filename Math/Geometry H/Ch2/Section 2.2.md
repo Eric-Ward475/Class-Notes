@@ -7,4 +7,4 @@
 - A straight angle is formed by them, if they are adjacent
 
 Continue:
-[[Math/Geometry H/Ch2/Section 2.3]]
+[[Section 2.4]]

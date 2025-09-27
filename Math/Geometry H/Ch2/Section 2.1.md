@@ -12,4 +12,4 @@
 - The intersection of the axes is called the origin
 
 Continue:
-[[Math/Geometry H/ Ch2/Section 2.2]]
+[[Section 2.2]]
