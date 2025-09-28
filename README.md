@@ -31,15 +31,6 @@ This is not recommended, because no links within the notes will work. You can st
 
 ##### ***NOTE: THIS IS UPDATED ALMOST DAILY, YOU NEED TO REFRESH THE CLONED REPO REGULARLY***
 ---
-### Filesize
-- Currently, this repository is mainly markdown, with only a couple images in the guide section
-- The bulk of the repo's data is in the .git folder, containing version control data and the lower level git information
-- At the time of commit, this repo totals 94 megabytes
-	- 86M of which are .git files
-	- 512K of which are images
-	- 768K of which are .obsidian files
-	- 7M of which are hand typed notes, or about 7,000,000 manually typed characters
-
 ### Supporting/Contributing
 - All contributors get a cut of any monetary proceeds, based on how much they contribute
 - You can contribute by:
