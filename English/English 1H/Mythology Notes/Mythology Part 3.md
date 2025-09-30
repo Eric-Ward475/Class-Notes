@@ -45,4 +45,50 @@
 - While in Athens, Medea feared Theseus and tried to poison him
 - Theseus killed the Minotaur with the help of Minos' daughter Ariadne
 
-### 
+### Hercules
+
+**Background**
+- He was recognized as the greatest Greek hero by everyone, except the Athenians, who recognized Theseus as the greatest hero, for his intellectual capabilities
+- He was the strongest man ever to live
+- He was not very smart, but very brave and self-confident
+- Could not be killed by anything not supernatural (gods themselves could only kill him)
+- He was known for his bravery, generosity and remorse, when he did wrong
+
+**Birth and Early Life**
+- He was the son of Zeus and a mortal woman, Alcmene
+- Hera hated him from birth, because he was child of another woman
+	- She sent 2 serpents to kill him when he was an infant
+	- He strangled them with his bare hands
+- As a young man, he killed the Thespian lion with his bare hands
+	- Not to be confused with the Nemean lion, told about later
+- He married Megara, and had children with her
+- Hera once send madness upon him, causing him to kill Megara and their children in a crazed frenzy
+	- Afterwards, he wanted to kill himself in grief, but his cousin Theseus convinced him to live and repent
+
+**The 12 labors**
+- Assigned my King Eurytheus as punishment for killing his family, Hercules completed 12 acts of repentance to cleanse his spirit for his deeds
+- They were:
+	1. Nemean Lion - Strangled an invulnerable lion and wore its skin as armor
+	2. Lernaean Hydra - A beast with many heads, such that if any are severed, they regenerate into another two more. He killed it by cauterizing the heads, so that they could not regenerate and buried the main hear
+	3. Ceryneian Hind - Captured the sacred stag of Artemis without harming it (took over one year to complete)
+	4. Erymanthian Boar - Hercules chased it until it was exhausted, they he drove it into deep snow, trapping it
+	5. Augean Stables - These stables had not been cleaned for years, Hercules diverted 2 rivers to flow through the stables, cleaning them in a single day
+	6. Stymphalian Birds - Man eating birds, shot them out of the air with his bow, after scaring them with a rattle gifted to him by Athena
+	7. Cretan Bull - Hercules captured the bull who was father of the Minotaur and brought it to Eurystheus
+	8. Mares of Diomedes - Hercules tames man-eating horses by feeding them their master, Diomedes
+	9. Girdle of Hippolyta -Queen of the Amazons at first willingly gave him her belt, but Hera stirred trouble and battle ensued. He obtained it by force.
+	10. Cattle of Geryon - Hercules killed a triple-bodied monster
+	11. Apples of the Hesperides - The golden apples, Hercules tricked Atlas to get them and outsmarted him twice (once, to get the apples, while he help up the sky, and later to take the sky back)
+	12. Cerbeus - Went to the underworld, brought up the three-headed dog, Cerberus with no weapons
+
+**Other Deeds**
+- Fought Achelous (river-god) for the hand of Deianira
+- Rescued Prometheus from his torment
+- Joined the Argonauts
+
+**Death and Apotheosis**
+- His wife Deianira, jealous and deceived, gave him a robe smeared with the blood of the centaur Nessus, believing it would ensure his love.
+- The blood was poison, the robe burned into his flesh, causing unbearable agony.
+- He built his own funeral pyre, and his friend Philoctetes lit it.
+- His mortal part was consumed, but the immortal part rose to Olympus.
+- He was reconciled with Hera and married **Hebe**, the goddess of youth.

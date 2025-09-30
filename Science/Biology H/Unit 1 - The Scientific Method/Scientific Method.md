@@ -1,4 +1,3 @@
-### Scientific Method
 **Claims**
 - Claims have to be: 
 	- Testable

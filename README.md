@@ -50,12 +50,10 @@ This is not recommended, because no links within the notes will work. You can st
 - Add notes for classes I am not in (Relies on other people sending notes to upload, or me independently taking the course)
 
 ### Upcoming additions
-- English 1H Mythology pgs 181-223
 - English 1H The gift of the magi notes
 - English 1H Pronoun Antecedents
 - English 1H Fiction
 - English 1H Short stories
-- Geometry H Up-to-date
 - Biology H Properties of water
 ### Change log
 **8/21/25**:
@@ -138,3 +136,11 @@ This is not recommended, because no links within the notes will work. You can st
 **9/26/25**:
 - Lots of Geometry H (section 2.2-2.7)
 - Some short stories notes (English 1H)
+
+**9/28/26**:
+- Geometry H 2.7-2.8
+- Mythology up to pg 255 (end of Atlanta)
+
+**9/30/25**:
+- New Directions notes
+- Some biology notes

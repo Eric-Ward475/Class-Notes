@@ -1,6 +1,6 @@
 ## Biology Honors
 ### Unit 1
-[[Science/Biology H/Unit 1/notes]]
+[[Scientific Method]]
 
 ### Unit 2
-[[Science/Biology H/Unit 2/notes]]
+[[Basics of Biochemistry]]
