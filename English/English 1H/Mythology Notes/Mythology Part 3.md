@@ -1,6 +1,7 @@
 ### Index
 [[#Perseus]]
 [[#Theseus]]
+[[#Hercules]]
 
 ### Perseus
 
