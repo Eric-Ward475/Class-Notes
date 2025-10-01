@@ -51,10 +51,7 @@ This is not recommended, because no links within the notes will work. You can st
 
 ### Upcoming additions
 - English 1H The gift of the magi notes
-- English 1H Pronoun Antecedents
 - English 1H Fiction
-- English 1H Short stories
-- Biology H Properties of water
 ### Change log
 **8/21/25**:
 - Creation of repo
@@ -144,3 +141,6 @@ This is not recommended, because no links within the notes will work. You can st
 **9/30/25**:
 - New Directions notes
 - Some biology notes
+
+**10/01/25**:
+- Bio H notes up to date

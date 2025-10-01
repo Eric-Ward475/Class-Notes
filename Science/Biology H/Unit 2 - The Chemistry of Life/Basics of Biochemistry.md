@@ -55,13 +55,70 @@
 - Carbs are mostly hydrophilic, meaning that they can usually be dissolved in water
 
 **Lipids**
-- Lipids a broad category of macromolecule
+- Lipids a broad category of macro-molecule
 	- Some are used as bulk energy storage
 	- Some make up cell membranes
 	- Some make up hormones/steroids
 	- All are insoluble in water (can not dissolve, hydrophobic)
-- Lipids are made of carbon, hydrogen and sometimes oxygen
+- Lipids are made of carbon, hydrogen and sometimes oxygen and phosphorus
 - They are often found in the form of fats, oils, waxes and steroids
 - The most common type of lipid are triglycerides, used for large amounts of energy storage
 	- Triglycerides are formed by a glycerol 'backbone' and 3 fatty acid 'tails'
-	- ![[Pasted image 20250930134027.png]]
+	- The 'tails' contain many carbons bonded to hydrogen
+	- These carbon-hydrogen bonds contain a lot if energy
+	- Triglycerides can have saturated or unsaturated fatty acids
+		- Saturated acids have the maximum amount of hydrogen bonded to the carbons in the tail
+		- Saturated acids can cause blood clots, leading to cardiovascular problems
+		- Saturated fats are usually solid
+		- Unsaturated acids do not have the maximum, and contain double bonded carbon instead
+		- Unsaturated acids do not have this problem
+		- Unsaturated fats are usually liquid, such as oil
+		- Trans fats are originally unsaturated fats, with extra hydrogen atoms added in
+			- Used in baking
+- Phospholipids are used in the construction of the cell membrane
+	- They are polar in regions and not, in others
+	- This allows some molecules to pass through easily, while others can not
+- Hormones and steroids are messengers that travel through the blood and into cells
+	- They are all built from cholesterol
+
+**Proteins**
+- Have very diverse functions
+	- Some are called enzymes, or proteins that speed up chemical reactions in cells
+	- Some are used as antibodies, aiding in immune defnese
+	- Some are used for structure, such as collagen and keratin
+	- There are some protein hormones, like insulin and hemoglobin
+- Structure of proteins:
+	- Has 3-4 layers of structure
+		- Primary
+		- Secondary
+		- Tertiary
+		- Some have Quaternary
+	- Built from a chain of amino acids
+		- There are 20 amino acids
+		- Some chains are shorter, while others can be extremely long
+	- Primary structure is the initial chain of amino acids
+	- Secondary structure is when amino acids bond together to form structures called alpha helices (singular: alpha helix) and beta sheets
+		- Formed when amino acids hydrogen bond together
+	- Tertiary structure is when the protein folds itself
+		- Formed when the protein's variable r-structures bond and interact with each other
+	- Quaternary structure forms when multiple amino acid chains fold together
+		- Not all proteins have this
+		- Hemoglobin is an example
+
+**Nucleic Acids**
+- Nucleic acids are responsible for storing genetic data and carrying instructions for manufacturing proteins within cells
+- The monomers are nucleotides, with 3 parts
+	- A sugar
+	- Phosphate group
+	- Nitrogen base
+- There are 3 nucleic acid:
+	- DNA
+		- Contains all genes
+		- 4 nitrogen bases, A, T, C, G
+			- A binds with T, C binds with G
+	- RNA
+		- Contains instructions for ribosomes to make proteins
+		- 4 nitrogen bases, A, U, C, G
+			- A binds with U, C binds with G
+	- ATP
+		- Used for energy - not like other nucleic acids
