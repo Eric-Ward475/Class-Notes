@@ -38,7 +38,7 @@ This is not recommended, because no links within the notes will work. You can st
 	- Helping add to the notes by sending in your personal notes, or even typing them in the same format as I do
 		- I will add them to the repo, and credit you for your submission
 		- I ask that submissions are sent directly to me, to avoid conflict
-		- All notes must be typed in valid markdown format, and no AI can be used, to preserve legitimacy
+		- All notes must be typed in valid markdown format, and AI may not be directly used, meaning that any submissions must be essentially hand typed, although using AI to summarize text IS allowed.
 	- Suggesting features, topics or anything else to me directly
 - You can support by:
 	- Informing others of the repository
@@ -52,6 +52,7 @@ This is not recommended, because no links within the notes will work. You can st
 ### Upcoming additions
 - English 1H The gift of the magi notes
 - English 1H Fiction
+- Bio H updates
 ### Change log
 **8/21/25**:
 - Creation of repo
@@ -144,3 +145,6 @@ This is not recommended, because no links within the notes will work. You can st
 
 **10/01/25**:
 - Bio H notes up to date
+
+**10/06/25**:
+- Mythology: Trojan War

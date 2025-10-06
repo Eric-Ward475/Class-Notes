@@ -93,3 +93,30 @@
 - He built his own funeral pyre, and his friend Philoctetes lit it.
 - His mortal part was consumed, but the immortal part rose to Olympus.
 - He was reconciled with Hera and married **Hebe**, the goddess of youth.
+
+### Atalanta
+
+ **Background**
+- Famous female hero
+- A skilled huntress
+- When she was born, her father had wanted a son
+	- He left her on a mountain, to die
+	- A bear nursed her until hunters found and raised her
+- She grew to be a fearless huntress, beautiful but uninteresting in marriage
+
+**Calydonian Boar Hunt**
+- Oeneus, the King of Calydon offended Artemis, causing her to send a large boar to ravage the lands
+- All of the heroes of Greece gathered for the hunt for the boar
+- Atalanta joined them, which surprised many men
+- She was first to wound the boar with an arrow
+- Meleager killed it after, but thought that Atalanta deserved the recognition for killing the boar, so he gave her to boar's hide
+
+**Footrace and Marriage**
+- Atalanta's father pressured her to marry, which she did not want to do
+- She only agreed on the condition that her suitor must race her on foot, and if he lost, he would be killed
+- Many tried and failed, until Hippomenes finally beat her, using 3 golden apples given to him by Aphrodite
+
+**Fate**
+- After their marriage, Atalanta and Hippomenes made love in a sacred place of Zeus, angering the gods
+- The gods turned them into lions
+
