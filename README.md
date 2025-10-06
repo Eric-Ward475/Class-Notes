@@ -52,9 +52,15 @@ This is not recommended, because no links within the notes will work. You can st
 - Add notes for classes I am not in (Relies on other people sending notes to upload, or me independently taking the course)
 
 ### Upcoming additions
-- English 1H The gift of the magi notes
+- English 1H The Gift of the Magi
+- English 1H The Secret Life of Walter Mitty
+- English 1H The Interlopers
+- English 1H The Necklace
+- English 1H Relative Pronouns
+- English 1H Vague Pronouns
 - English 1H Fiction
 - Bio H updates
+- Geometry H update (start of transformations chapter 3)
 ### Change log
 **8/21/25**:
 - Creation of repo

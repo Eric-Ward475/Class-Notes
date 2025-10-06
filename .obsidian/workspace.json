@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "420356913c07ad39",
+        "id": "4b650e01218d279d",
         "type": "tabs",
         "children": [
           {
-            "id": "e548fbfe65c78e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Biology H/Unit 2 - The Chemistry of Life/Basics of Biochemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics of Biochemistry"
-            }
-          },
-          {
-            "id": "da9d29a8e8febe39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/English 1H/Mythology Notes/Mythology Part 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mythology Part 4"
-            }
-          },
-          {
-            "id": "1dd5be7506b36f98",
+            "id": "39d01efe37d93312",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,18 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1dd5be7506b36f98",
+  "active": "39d01efe37d93312",
   "lastOpenFiles": [
-    "English/English 1H/Mythology Notes/Mythology Part 4.md",
-    "Science/Biology H/Unit 2 - The Chemistry of Life/Basics of Biochemistry.md",
+    "Pasted image 20250930134027.png",
     "README.md",
+    "English/English 1H/Literature Book/Short Stories/The Gift of the Magi.md",
+    "English/English 1H/Literature Book/Short Stories/New Directions.md",
+    "English/English 1H/Literature Book/Short Stories/The Girl Who Can.md",
+    "Science/Biology H/Unit 2 - The Chemistry of Life/Basics of Biochemistry.md",
+    "English/English 1H/Mythology Notes/Mythology Part 4.md",
     "English/English 1H/Mythology Notes/Mythology Part 3.md",
     "English/English 1H/Literature Book/Fiction (Type of writing).md",
     "English/English 1H/Writing + Grammar/Antecedents (Pronouns).md",
-    "Pasted image 20250930134027.png",
-    "English/English 1H/Literature Book/Short Stories/The Gift of the Magi.md",
-    "English/English 1H/Literature Book/Short Stories/The Girl Who Can.md",
-    "English/English 1H/Literature Book/Short Stories/New Directions.md",
     "Science/Biology H/Unit 1 - The Scientific Method/Scientific Method.md",
     "Math/Geometry H/Ch2/Section 2.7.md",
     "Math/Geometry H/Ch2/Section 2.8.md",
@@ -229,7 +200,6 @@
     "Math/Geometry H/ Ch2",
     "Tech/Intro to Tech/Word Notes.md",
     "Tech/Guide - Tech.md",
-    "Math/Geometry H/Ch1/Section 1.4.md",
     "Math/Geometry H/Ch2",
     "Science/Biology H/Unit 2 - The Chemistry of Life",
     "Untitled",
