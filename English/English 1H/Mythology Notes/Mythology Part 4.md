@@ -8,7 +8,7 @@
 - The root cause of the war traces back to Eris, who was upset because she was not invited to a banquet on Olympus
 - She threw a golden apple marked with 'For the Fairest'
 - Three goddesses wanted to claim it (Hera, Athena and Aphrodite)
-- They asked Zeus to judge which of them was the fairest, but refused (trying to avoid Hera's wrath), and send them to Paris, a Trojan prince
+- They asked Zeus to judge which of them was the fairest, but he refused (trying to avoid Hera's wrath), and sent them instead to Paris, a Trojan prince
 - Each goddess offered something to Paris as a bride
 	- Hera offered power over all of Asia
 	- Athena offered victory in wars
