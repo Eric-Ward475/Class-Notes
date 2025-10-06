@@ -37,12 +37,14 @@ This is not recommended, because no links within the notes will work. You can st
 	- Reporting any issues with the notes (typos, error, etc) to me at any of my contacts that can be found on my GitHub home page, or through GitHub Issues
 	- Helping add to the notes by sending in your personal notes, or even typing them in the same format as I do
 		- I will add them to the repo, and credit you for your submission
+			- You can also create a Pull Request on GitHub, if you are able to (preferred)
 		- I ask that submissions are sent directly to me, to avoid conflict
 		- All notes must be typed in valid markdown format, and AI may not be directly used, meaning that any submissions must be essentially hand typed, although using AI to summarize text IS allowed.
 	- Suggesting features, topics or anything else to me directly
 - You can support by:
 	- Informing others of the repository
 	- Small donations (I legitimately do not want your money, most of any proceeds would go directly to other contributors
+- Content requests can be completed either by contacting me directly or by creating an Issue on GitHub
 
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
@@ -148,3 +150,4 @@ This is not recommended, because no links within the notes will work. You can st
 
 **10/06/25**:
 - Mythology: Trojan War
+- Update README
