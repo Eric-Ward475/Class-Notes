@@ -156,3 +156,7 @@ This is not recommended, because no links within the notes will work. You can st
 **10/06/25**:
 - Mythology: Trojan War
 - Update README
+
+**10/12/25**:
+- Mythology up to date (Quiz tomorrow)
+- Biology updates
