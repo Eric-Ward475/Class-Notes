@@ -1,6 +1,7 @@
 ### Index
 [[#Pre Trojan War]]
-[[#The Trojan War]],
+[[#The Trojan War]]
+[[#The Adventures of Aeneas]]
 
 ### Pre Trojan War
 
@@ -92,3 +93,71 @@
 - Almost all men were killed, with only few such as Aeneas escaping
 - Most women and children were enslaved
 - The war ended not in glory, but in ruin, treachery, and tragedy
+
+### The Adventures of Aeneas
+*This will include Roman names, as Hamilton refers to the gods by their Roman names. See [[Mythology Part 1]] for reference guide*
+
+**Background**
+- The Roman perspective of the aftermath of the Trojan War.
+- Aeneas was the son of Venus and a mortal, Anchises
+- He founded a new city, which one day became Rome.
+- After the destruction of Troy, Aeneas was one of the only surviving Trojans
+
+**Fall of Troy**
+- When the Greeks entered Troy inside the wooden horse, Aeneas was woken by Hector's ghost, who warned him to flee
+- Aeneas fought bravely, but realized that the city was doomed to fall, so he fled the city
+
+**Journey's Beginning**
+- Aeneas and the surviving Trojans set out in search of new land to found a city on
+- They wandered for years, with divine interference, storms and losses
+- Juno hated all Trojans because of the judgement of Paris (who was a Trojan himself)
+- Venus protected Aeneas and tried to guide him to his eventual goal, in Italy
+
+**Aeneas and Dido (Landing in Carthage)**
+- The Trojans landed in Carthage, which was, at the time rules by Queen Dido, the city's founder
+- Venus caused Dido to fall in love with Aeneas, to help him
+- The two became lovers, with Dido believing that they were married in spirit
+- Jupiter reminded Aeneas that his true destiny was to found a new nation in Italy, not settle down in Carthage
+- Aeneas secretly began making preparations to depart from Carthage
+- Upon realizing that Aeneas was leaving, Dido cursed him and his descendants and committed suicide
+	- Her curse caused the later Punic Wars between Rome and Carthage
+- Aeneas departed from Carthage and eventually landed in Italy
+
+**Voyage to the Underworld**
+- While in Italy, Aeneas visited the Cumaean Sibyl (A priestess who resided at the temple in Naples, a Greek colony)
+	- She guided him to the Underworld, allowing him to speak to his father's spirit
+- While in the Underworld, he saw shades (the spirits) of fallen Trojans and Greeks (from the war)
+- His father's (Anchises') spirit showed him the souls of great Romans, not yet born
+	- He showed him the destiny of Rome and it's empire
+	- These visions further motivated Aeneas to fulfill his destiny
+
+**War in Italy**
+- Aeneas wanted peace with King Latinus, who offered his daughter Lavinia to Aeneas in marriage
+- Juno, desperate to stop Aeneas, caused conflict between Aeneas and Turnus
+	- Turnus was Lavinia's suitor (the man she previously planned to marry)
+	- Juno caused Turnus to have severe jealousy, causing him to declare war on the Trojans
+- The war caused Italy to be divided between the Trojans and Aeneas and Turnus
+- Aeneas sought allies in Italy to aid in his war effort
+	- He came to Pallantem, which was ruled by King Evander, a greek who had settled in Italy long before
+	- Evander saw that the Trojans were destined for greatness and pledged his support
+	- He send his son, Pallas to fight with Aeneas as a symbol of alliance
+	- Evander and Aeneas' men prepared together for the upcoming war
+- As the war began, minor skirmishes broke out all over Italy
+- In a major engagement, Pallas was killed by Turnus
+	- Turnus took Pallas' belt as a war trophy
+- Aeneas constantly proved himself a powerful leader
+- The war ended in a duel between Aeneas and Turnus
+	- Aeneas wounded Turnus, causing him to fall in defeat
+	- Aeneas considered sparing Turnus' life, but saw the belt of Pallas on Turnus and enraged, killed Turnus
+	- This action brought the war to an end
+
+**Aftermath of the War**
+- Peace was established between the Trojans and Latin peoples
+- Aeneas married Lavina
+- The union between the Trojan and Latin people signified the birth of the Roman people
+- Aeneas' son, Ascanius eventually founded the city of Alba Longa, the mother city of Rome
+
+**Legacy of Aeneas**
+- Aeneas was recognized as a symbol of mercy, endurance and duty to the gods
+- He is ultimately credited as the reason for the existence of the Roman Empire
+

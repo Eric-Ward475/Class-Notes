@@ -54,12 +54,11 @@ This is not recommended, because no links within the notes will work. You can st
 ### Upcoming additions
 - English 1H The Gift of the Magi
 - English 1H The Secret Life of Walter Mitty
-- English 1H The Interlopers
 - English 1H The Necklace
 - English 1H Relative Pronouns
 - English 1H Vague Pronouns
+- English 1H Subject complements
 - English 1H Fiction
-- Bio H updates
 - Geometry H update (start of transformations chapter 3)
 ### Change log
 **8/21/25**:

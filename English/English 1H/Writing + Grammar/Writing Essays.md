@@ -29,6 +29,7 @@
 **Concrete Details (CD)**
 - Specific details that support of form the backbone/core of your body paragraphs
 - ALWAYS FACTUAL INFORMATION
+- Must contain details from the story, can be paraphrased, direct quote, or both
 - Synonyms include:
 	- Facts
 	- Specifics
@@ -134,6 +135,9 @@
 **Chunk**
 - A unified group of sentences or thoughts
 - Combines CDs and CMs
+- Do not repeat specific words, phrases or sentences
+- Present tense verbs only
+- Avoid being repetitive
 
 **How to write**
 - There are 3 parts to a chunk (some people teach 4)
