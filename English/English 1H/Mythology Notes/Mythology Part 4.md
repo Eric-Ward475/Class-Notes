@@ -161,3 +161,4 @@
 - Aeneas was recognized as a symbol of mercy, endurance and duty to the gods
 - He is ultimately credited as the reason for the existence of the Roman Empire
 
+Continued on [[Mythology Part 5]]

@@ -1,4 +1,4 @@
-- All biological macro-molecules are made of carbon, hydrogen, oxygen, nitrogen, phosphorus and sulfur
+- All biological macromolecules are made of carbon, hydrogen, oxygen, nitrogen, phosphorus and sulfur
 	- Acronym: CHONPS
 	- Not all molecules use all of them (Eg: Carbohydrates only use carbon, hydrogen and oxygen)
 

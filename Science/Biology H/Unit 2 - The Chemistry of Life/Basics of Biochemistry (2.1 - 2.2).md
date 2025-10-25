@@ -40,8 +40,6 @@
 - Catabolism breaks molecules into smaller units and energy (Hydrolysis)
 - Anabolism takes the smaller units and energy and forms molecules (Dehydration Synthesis)
 - Exothermic reactions release heat into the surrounding environment
-- Endothermic reactions take in heat from the enviroment
-- Most chemical reactions are exothermic
 - Dehydration synthesis is anabolic and endothermic
 - Hydrolysis is catabolic and endothermic
 - Activation energy is the initial amount of energy required to start a chemical reaction

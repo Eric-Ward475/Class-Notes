@@ -159,3 +159,10 @@
 		- Finishes the paragraph elegantly, ensuring that the reader understands the purpose of the paragraph clearly
 		- Sometimes, this is simply considered a second piece of CM, but it ultimately does the same thing
 		- Example: "Thus, the third pig's wisdom highlights the importance of preparation and careful decision-making."
+
+### Formatting Essays
+
+- Times New Roman, font size 12
+- 1 inch margins on all sides (Normal margins on Word)
+- Line spacing must be double
+- Don't add space between paragraphs of the same style (Word)

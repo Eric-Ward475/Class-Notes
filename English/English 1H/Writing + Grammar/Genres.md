@@ -1,5 +1,7 @@
+### Fiction
+
 - Fiction is a type of prose writing (ordinary sentences and paragraphs) that tells about imaginary characters, events or settings (or any combination of those)
-- Genres include:
+- (sub) Genres include:
 	- Mystery
 	- Young Adult
 	- Science Fiction
@@ -8,4 +10,6 @@
 - Characterized by
 	- Point of view
 	- Characters
-	- 
+	- Made up elements
+---
+p
