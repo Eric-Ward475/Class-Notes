@@ -52,9 +52,14 @@ This is not recommended, because no links within the notes will work. You can st
 - Add notes for classes I am not in (Relies on other people sending notes to upload, or me independently taking the course)
 
 ### Upcoming additions
-- English 1H The Gift of the Magi
+- Biology H Chapter 3
+- English 1H "The Gift of the Magi"
+- English 1H "American History"
 - English 1H Subject complements
-- Geometry H update (transformations chapter)
+- English 1H Kindred
+- Geometry H Transformations
+- Geometry H Chapter 3
+- Geometry H Start Chapter 4
 ### Change log
 **8/21/25**:
 - Creation of repo
