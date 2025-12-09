@@ -6,6 +6,8 @@ By using these notes, you are agreeing not to use them to cheat, only to study o
 
 Any review questions that are graded will not be posted until after the due date.
 
+**Notes for English novels will NOT be included, it is too time consuming for me to do alone**
+
 ---
 ### Setup
 ***There are 2 options for set up***
@@ -165,3 +167,6 @@ This is not recommended, because no links within the notes will work. You can st
 - Update the guides
 - Biology: Add enzymatic reactions
 - English: Some short stories
+
+**12/05/25**:
+- Getting some stuff updated because of finals
