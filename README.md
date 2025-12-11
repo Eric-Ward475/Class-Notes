@@ -6,7 +6,7 @@ By using these notes, you are agreeing not to use them to cheat, only to study o
 
 Any review questions that are graded will not be posted until after the due date.
 
-**Notes for English novels will NOT be included, it is too time consuming for me to do alone**
+**Notes for English novels will NOT be included, it is too time consuming for me to do alone, although if someone could provide notes, I would add them in**
 
 ---
 ### Setup
@@ -48,20 +48,20 @@ This is not recommended, because no links within the notes will work. You can st
 	- Small donations (I legitimately do not want your money, most of any proceeds would go directly to other contributors
 - Content requests can be completed either by contacting me directly or by creating an Issue on GitHub
 
+**If you are familiar with the Pull Request system on Github, please use that instead of other methods**
+
 ### Road-map
 - Add hosting with GitHub pages or a Wiki
 - Keep notes up to date and accurate
 - Add notes for classes I am not in (Relies on other people sending notes to upload, or me independently taking the course)
 
 ### Upcoming additions
-- Biology H Chapter 3
 - English 1H "The Gift of the Magi"
-- English 1H "American History"
+- English 1H "The Cask of Amontillado"
+- English 1H "Old man of the Temple"
 - English 1H Subject complements
-- English 1H Kindred
-- Geometry H Transformations
-- Geometry H Chapter 3
-- Geometry H Start Chapter 4
+- English 1H Non-fiction unit
+- A lot of Geometry..
 ### Change log
 **8/21/25**:
 - Creation of repo
@@ -170,3 +170,6 @@ This is not recommended, because no links within the notes will work. You can st
 
 **12/05/25**:
 - Getting some stuff updated because of finals
+
+**12/09/25**:
+- Bio is up to date. Everything should be ready/updated by the start of finals week

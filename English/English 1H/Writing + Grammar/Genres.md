@@ -11,5 +11,20 @@
 	- Point of view
 	- Characters
 	- Made up elements
+
 ---
-p
+
+### Non-Fiction
+
+- Non-fiction tells of true events, uses real facts or events or tries to prove something
+- (sub) Genres include:
+	- Essays
+		- Persuasive
+		- Informative
+		- Narrative
+	- Historical
+	- Textbooks
+	- Reference books
+- Characterized by its foundation in fact and reality
+
+---

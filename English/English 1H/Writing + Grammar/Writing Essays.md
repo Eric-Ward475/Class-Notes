@@ -2,6 +2,7 @@
 **Introduction**
 - The first paragraph of an essay, containing the thesis/claim
 - Includes a general summary of the purpose of the entire essay
+- Contains no plot references
 
 **Thesis**
 - States the main idea of the essay
@@ -16,6 +17,7 @@
 **Conclusion**
 - Sums up your ideas; a wrap up
 - The last paragraph in your essay
+- CS must be obviously different than the TS
 
 **Topic Sentence (TS)**
 - 'Mini thesis'
