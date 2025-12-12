@@ -173,3 +173,4 @@ This is not recommended, because no links within the notes will work. You can st
 
 **12/09/25**:
 - Bio is up to date. Everything should be ready/updated by the start of finals week
+

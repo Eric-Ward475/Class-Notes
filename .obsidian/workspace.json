@@ -11,13 +11,46 @@
             "id": "6288611659170f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Science/Biology H/Unit 4 - Cellular Respiration/Anaerobic Respiration (4.5).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Anaerobic Respiration (4.5)"
+            }
+          },
+          {
+            "id": "3033871c87417c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science/Biology H/Unit 4 - Cellular Respiration/Glycolysis and Krebs Cycle (4.1-4.3).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glycolysis and Krebs Cycle (4.1-4.3)"
+            }
+          },
+          {
+            "id": "84206b07723b6107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,8 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e45a1adf6a5f8347",
+  "active": "84206b07723b6107",
   "lastOpenFiles": [
+    "Science/Biology H/Unit 4 - Cellular Respiration/Anaerobic Respiration (4.5).md",
+    "Science/Biology H/Unit 4 - Cellular Respiration/Glycolysis and Krebs Cycle (4.1-4.3).md",
     "English/English 1H/Non Fiction Unit/On Summer.md",
     "English/Guide - English.md",
     "English/English 1H/Writing + Grammar/Writing Index.md",
@@ -186,8 +221,6 @@
     "English/English 1H/Short Stories/American History.md",
     "English/English 1H/Short Stories/The Girl Who Can.md",
     "Science/Guide - Science.md",
-    "Science/Biology H/Unit 4 - Cellular Respiration/Glycolysis and Krebs Cycle (4.1-4.3).md",
-    "Science/Biology H/Unit 4 - Cellular Respiration/Untitled.md",
     "Science/Biology H/Unit 4 - Cellular Respiration/Chemiosmosis and Electron Transport Chain (4.4).md",
     "English/English 1H/Writing + Grammar/Pronoun unit (IXL EE).md",
     "English/English 1H/Writing + Grammar/Genres.md",
